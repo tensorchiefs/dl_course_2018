@@ -22,5 +22,28 @@ We took inspiration (and sometimes slides / figures) from the following resource
 ## Syllabus
 The course is split in 8 sessions, each 4 hours long. 
 
+## Dates
+1/ Tue 2/20
+2/ Tue 2/27
+3/ Tue 3/06
+4/ Tue 3/13
+5/ Tue 3/20
+6/ Tue 3/27 
+7/ Tue 4/03 
+8/ Tue 4/10 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Tensorchiefs are Oliver Dürr, Beate Sick and Elvis Murina.
 
