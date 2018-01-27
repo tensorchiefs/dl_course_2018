@@ -12,28 +12,32 @@ There two ways, how to run these notebooks, a provided docker container or via a
 
 * Create a virtual environment for the course
 	```
-		conda create -n dl_course anaconda
+	conda create -n dl_course anaconda
 	```
 
 * Activate the environment
 	```
-		source activate dl_course
+	source activate dl_course
 	```
 
 * Install the following required packages
 	```
-		conda install tensorflow=1.1.0
-		conda install keras 
+	conda install tensorflow=1.1.0
+	conda install keras 
 	```
 
 
 #### Starting the notebook
 
-Once you installed anaconda you can start the notebooks via (you might need to activate the environment) via 
+Once you installed anaconda you can start the notebooks via (you might need to activate the environment) 
 
 ```
-  jupyter notebook
+jupyter notebook
 ```
+
+#### Checking the installation
+Please make sure that the following notebook is working
+<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/00_Checking_Correct_Installation.ipynb'>00_Checking_Correct_Installation.ipynb</a>
 
 
 
