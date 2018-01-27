@@ -6,7 +6,7 @@ title: Deep Learning Course
 
 This course in deep learning focuses on practical aspects of deep learning. 
 
-For the hands-on part we provide a docker container ([details and installation instruction](docker.md)).
+For the hands-on part you could install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
 
 ## Other resources
 We took inspiration (and sometimes slides / figures) from the following resources.
