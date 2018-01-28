@@ -7,7 +7,7 @@ We provide a docker image [oduerr/tf_docker:tf1_py3](https://github.com/oduerr/t
 ## Installation of docker
 
 * The official installation guide can be found at: [https://docs.docker.com/engine/installation/](https://docs.docker.com/engine/installation/)
-* In case that the docker installation does not work you can directly instal Tensorflow via Anaconda. You can find a installation guide on our website.
+* In case that the docker installation does not work you can directly instal Tensorflow via Anaconda. You can find a installation guide on our website: [Anaconda installation guide](https://github.com/tensorchiefs/dl_course_2018/blob/master/docs/anaconda.md)
 
 
 ## Running the container
