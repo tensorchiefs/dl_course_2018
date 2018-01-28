@@ -14,12 +14,13 @@ There two ways, how to run these notebooks, a provided docker container or via a
 	```
 	conda create -n dl_course anaconda
 	```
-	Windows user can use the Anaconda Navigator GUI to create an new environment,
+	Windows user can use the Anaconda Navigator GUI to create an new environment. Directly typing comands can be done in the Anaconda Prompt windows which can be opened via the Start Menue button. Within the Anaconda Prompt one can use *dir* and *cd* to find and change between different environments.
 
 * Activate the environment
 	```
 	source activate dl_course
 	```
+	
 
 * Install the following required packages
 	```
