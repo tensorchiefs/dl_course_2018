@@ -14,6 +14,7 @@ There two ways, how to run these notebooks, a provided docker container or via a
 	```
 	conda create -n dl_course anaconda
 	```
+	Windows user can use the Anaconda Navigator GUI to create an new environment,
 
 * Activate the environment
 	```
