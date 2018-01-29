@@ -15,7 +15,7 @@ You should know the chain rules, since it is the core of the back propagation al
 
 * Statistics
 
-You should now the basic descriptive statistics (mean, standart deviation, median, z-transformation) and have a solid understanding of probability and know thing like $P(A)$, $P(A,B) = P(A|B) P(B)$. You might consider the following [cheat sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf) (tests are not required). 
+You should now the basic descriptive statistics (mean, standart deviation, median, z-transformation) and have a solid understanding of probability and e.g. know that *P(A|B)* refers to the probability of event A given that event B was observed and you should be familiar with some calculus like *P(A,B)= P(A|B) P(B)*. You might consider the following [cheat sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf) (tests are not required). 
 
 ### Computer stuff
 
