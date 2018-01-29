@@ -11,7 +11,7 @@ Most algorithms in deep learning are based on matrix algebra and GPUs are often 
 
 * Calculus
 
-You should know the chain rules, since it is the core of the back propagation algorithm.For a refresher check out e.g. [Wikipedia](https://en.wikipedia.org/wiki/Chain_rule) or for an alternative approach the following [link](https://betterexplained.com/articles/derivatives-product-power-chain/)
+You should know the chain rules, since it is the core of the back propagation algorithm. For a refresher check out e.g. [Wikipedia](https://en.wikipedia.org/wiki/Chain_rule) or for an alternative approach the following [link](https://betterexplained.com/articles/derivatives-product-power-chain/)
 
 * Statistics
 
