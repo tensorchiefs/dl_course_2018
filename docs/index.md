@@ -25,14 +25,25 @@ We took inspiration (and sometimes slides / figures) from the following resource
 The course is split in 8 sessions, each 4 hours long. 
 
 ## Dates
-1/ Tue 2/20
-2/ Tue 2/27
-3/ Tue 3/06
-4/ Tue 3/13
-5/ Tue 3/20
-6/ Tue 3/27 
-7/ Tue 4/03 
-8/ Tue 4/10 
+
+1. Tue Feb 20
+
+2. Tue Feb 27
+
+3. Tue March 06
+
+4. Tue March 13
+
+5. Tue March 20
+
+6. Tue March 27 
+
+7. Tue April 03 
+
+8. Tue April 10
+
+ 
+
 
 
 
