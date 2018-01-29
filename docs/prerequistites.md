@@ -7,7 +7,7 @@ To follow the course some prerequisites are required.
 
 * Matrix Algebra 
 
-Most algorithms in deep learning are based on matrix algebra and GPUs are especially fast in performing matrix operations.Therefore basic knowledge of matrix algebra is needed to understand deep learning algorithms.  A good overview can be found at [http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf) you will only need the first two pages - stuff like Eigenvalues and basis expansion are note strictly required for the course.
+Most algorithms in deep learning are based on matrix algebra and GPUs are used since they are especially fast in performing matrix operations. Therefore basic knowledge of matrix algebra is needed to understand deep learning algorithms.  A good overview can be found at [http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf) you will only need the first two pages - stuff like Eigenvalues and basis expansion are note strictly required for the course.
 
 * Calculus
 
