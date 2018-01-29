@@ -6,7 +6,7 @@ To follow the course some prerequisites are required.
 ### Math calculus
 
 * Matrix Algebra 
-To be run on the GPU, the algorithms are all formulated in terms of matrix algebra. Therefore basic knowledge of matrix algebra is needed, stuff like Eigenvalues and basis expansion are note strictly required for the course. A good overview can be found at [http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf) you will only need the first two pages.
+Most algorithms used in deep learning are based on matrix algebra and GPUs are especially fast in performing matrix operations.Therefore basic knowledge of matrix algebra is needed to understand deep learning algorithms.  A good overview can be found at [http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf) you will only need the first two pages - stuff like Eigenvalues and basis expansion are note strictly required for the course.
 
 * Calculus
 You should know the chain rules, since it is the core of the back propagation algorithm.
