@@ -21,5 +21,5 @@ You should now the basic descriptive statistics (mean, standart deviation, media
 
 * Python
 
-You need a basic knowledge of python, see e.g. [datacamp python cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf). We will use jupyter notebooks and make use of numpy, matlibplot and of course the deep learning libraries TensorFlow, and Keras.
+You need a basic knowledge of python, see e.g. [datacamp python cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf). We will use jupyter notebooks and make use of numpy, matlibplot and of course the deep learning libraries TensorFlow, and Keras. For the hands-on part you should install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
 
