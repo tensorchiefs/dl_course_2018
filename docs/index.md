@@ -59,8 +59,8 @@ Otherwise the rendering is brolen
     <!--  Woche 1 -->
     <!--  ------------------------------------- -->
     <tr>
-    <td style="text-align: left;">1</td>  
-  	<td style="text-align: left;"> 
+    <td style="text-align: left;" valign="top">1</td>  
+  	<td style="text-align: left;" valign="top"> 
         <b>Deep learning basics</b> <a href="https://www.dropbox.com/s/bvgd0wsp0zkgjm0/lecture01.pdf?dl=1">slides</a>
       		<ul>
       			<li>Overview of deep learning</li>
@@ -71,7 +71,7 @@ Otherwise the rendering is brolen
       		</ul>
     </td>
     <!--  Additional Material -->
-    <td style="text-align: left;"> 
+    <td style="text-align: left;" valign="top"> 
     	<ul>
         <li> <a href='http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html'>Nature review article</a></li>
         <li> DL-book chapter 6</li>
@@ -79,7 +79,7 @@ Otherwise the rendering is brolen
        </ul>
    	</td>    
     <!--  Exercises and Homework -->
-    <td style="text-align: left;">
+    <td style="text-align: left;" valign="top">
     	<ul>
     		<li>
         		01 Matrix Multiplication 
