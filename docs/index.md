@@ -42,7 +42,12 @@ The course is split in 8 sessions, each 4 hours long.
 
 8. Tue April 10
 
-
+<!--  
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Note on table no empty lines / Bitte keine Leerzeilen 
+Otherwise the rendering is brolen
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+-->
 <table  class="zebra" width="width:100%">
   <tr>
       <th style="text-align: left;" width="%5">Day</th>
@@ -50,7 +55,9 @@ The course is split in 8 sessions, each 4 hours long.
       <th style="text-align: left;" width="%20">Additional Material</th>
       <th style="text-align: left;" width="%20">Exercises and homework</th>
   </tr>
+    <!--  ------------------------------------- -->
     <!--  Woche 1 -->
+    <!--  ------------------------------------- -->
     <tr>
     <td style="text-align: left;">1</td>  
   	<td style="text-align: left;"> 
@@ -86,6 +93,7 @@ The course is split in 8 sessions, each 4 hours long.
             <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/02_Linreg_with_slider.ipynb'> Notebook</a> 
             <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/02_Linreg_with_slider_solution.ipynb'> Solution LinearRegression </a> 
         </li>
+        <!-- 
         <li>
               03 Homework: Frozen Graph (Artstyle Transfer)
               <a href="exercises/03_Loading_Frozen_Graph"> Exercises</a> |
@@ -94,8 +102,9 @@ The course is split in 8 sessions, each 4 hours long.
     		<li>
     			 Homework: Mandelbrot <a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/simple_ops/Mandelbrot.ipynb'> Notebook</a> 
     		</li> 
-    </ul>
-  </td>   
+        < -->
+      </ul>
+    </td>   
   </tr>
 </table>
  
