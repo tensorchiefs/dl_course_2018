@@ -42,21 +42,24 @@ The course is split in 8 sessions, each 4 hours long.
 
 8. Tue April 10
 
-
+<!--  
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Note on table no empty lines / Bitte keine Leerzeilen 
+Otherwise the rendering is brolen
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+-->
 <table  class="zebra" width="width:100%">
-
   <tr>
       <th style="text-align: left;" width="%5">Day</th>
       <th style="text-align: left;" width="%55">Topic and slides</th>
       <th style="text-align: left;" width="%20">Additional Material</th>
       <th style="text-align: left;" width="%20">Exercises and homework</th>
   </tr>
-
-
+    <!--  ------------------------------------- -->
     <!--  Woche 1 -->
+    <!--  ------------------------------------- -->
     <tr>
-    <td style="text-align: left;">1</td>
-    
+    <td style="text-align: left;">1</td>  
   	<td style="text-align: left;"> 
         <b>Deep learning basics</b> <a href="https://www.dropbox.com/s/bvgd0wsp0zkgjm0/lecture01.pdf?dl=1">slides</a>
       		<ul>
@@ -67,7 +70,6 @@ The course is split in 8 sessions, each 4 hours long.
       			<li>Example: linear regression</li>
       		</ul>
     </td>
-    
     <!--  Additional Material -->
     <td style="text-align: left;"> 
     	<ul>
@@ -75,8 +77,7 @@ The course is split in 8 sessions, each 4 hours long.
         <li> DL-book chapter 6</li>
         <li><a href="https://www.tensorflow.org/get_started/get_started">TensorFlow Intro</a></li>
        </ul>
-   	</td>
-    
+   	</td>    
     <!--  Exercises and Homework -->
     <td style="text-align: left;">
     	<ul>
@@ -86,26 +87,24 @@ The course is split in 8 sessions, each 4 hours long.
             <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication.ipynb'> Notebook</a> | 
             <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication_solution.ipynb'> Solution</a> 
         </li>
-
     		<li>
         		02 Linreg (with_slider_solution) 
             <a href="exercises/02_linreg_with_slider"> Exercises</a> |
             <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/02_Linreg_with_slider.ipynb'> Notebook</a> 
             <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/02_Linreg_with_slider_solution.ipynb'> Solution LinearRegression </a> 
         </li>
-
+        <!-- 
         <li>
               03 Homework: Frozen Graph (Artstyle Transfer)
               <a href="exercises/03_Loading_Frozen_Graph"> Exercises</a> |
               <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/03_Loading_Frozen_Graph_solution.ipynb'> Solution Exercise</a> 
         </li>
-
     		<li>
     			 Homework: Mandelbrot <a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/simple_ops/Mandelbrot.ipynb'> Notebook</a> 
     		</li> 
-    </ul>
-  </td>
-    
+        < -->
+      </ul>
+    </td>   
   </tr>
 </table>
  
