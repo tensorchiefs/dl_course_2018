@@ -73,11 +73,9 @@ The course is split in 8 sessions, each 4 lectures long.
 </table>
 <p>&nbsp;</p> <!-- leerer absatz -->
 
-<div>
   
-## Syllabus <!-- back to md when you are in html -->
+## Syllabus 
 
-</div>
 <!--  
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Note on table no empty lines / Bitte keine Leerzeilen 
