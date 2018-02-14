@@ -22,26 +22,56 @@ We took inspiration (and sometimes slides / figures) from the following resource
 * Another applied course in DL: [TensorFlow and Deep Learning without a PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 
 ## Syllabus
-The course is split in 8 sessions, each 4 hours long. 
+The course is split in 8 sessions, each 4 lectures long. 
 
 ## Dates
-
-1. Tue Feb 20
-
-2. Tue Feb 27
-
-3. Tue March 06
-
-4. Tue March 13
-
-5. Tue March 20
-
-6. Tue March 27 
-
-7. Tue April 03 
-
-8. Tue April 10
-
+<table  class="zebra" width="width:100%">
+  <tr>
+      <th style="text-align: left;" width="%55">Day</th>
+      <th style="text-align: left;" width="%55">Date</th>
+      <th style="text-align: left;" width="%55">Time</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Tue Feb 20</td>
+    <td>13:30-17:00</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Tue Feb 27</td>
+    <td>13:30-17:00</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Tue March 06</td>
+    <td>09:00-12:30</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Tue March 13</td>
+    <td>09:00-12:30</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Tue March 20</td>
+    <td>09:00-12:30</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Tue March 27</td>
+    <td>09:00-12:30</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Tue April 03</td>
+    <td>09:00-12:30</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Tue April 10</td>
+    <td>13:30-17:00</td>
+  </tr>
+</table>
 <!--  
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Note on table no empty lines / Bitte keine Leerzeilen 
