@@ -21,10 +21,9 @@ We took inspiration (and sometimes slides / figures) from the following resource
 
 * Another applied course in DL: [TensorFlow and Deep Learning without a PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 
-## Syllabus
-The course is split in 8 sessions, each 4 lectures long. 
 
 ## Dates
+The course is split in 8 sessions, each 4 lectures long. 
 <table  class="zebra" width="width:100%">
   <tr>
       <th style="text-align: left;" width="%55">Day</th>
@@ -73,6 +72,12 @@ The course is split in 8 sessions, each 4 lectures long.
   </tr>
 </table>
 <p>&nbsp;</p> <!-- leerer absatz -->
+
+<div>
+  
+## Syllabus <!-- back to md when you are in html -->
+
+</div>
 <!--  
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Note on table no empty lines / Bitte keine Leerzeilen 
