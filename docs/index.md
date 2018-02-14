@@ -72,6 +72,7 @@ The course is split in 8 sessions, each 4 lectures long.
     <td>13:30-17:00</td>
   </tr>
 </table>
+<p>&nbsp;</p> <!-- leerer absatz -->
 <!--  
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Note on table no empty lines / Bitte keine Leerzeilen 
