@@ -14,7 +14,7 @@ There two ways, how to run these notebooks, a provided docker container or via a
 	```
 	conda create -n dl_course anaconda
 	```
-	Windows user can use the Anaconda Navigator GUI to create an new environment. Directly typing comands can be done in the Anaconda Prompt windows which can be opened via the Start Menue button. Within the Anaconda Prompt one can use *dir* and *cd* to find and change between different environments.
+	Windows user can use the Anaconda Navigator GUI to create an new environment. Directly typing comands can be done in the Anaconda Prompt window which can be opened via the Start Menue button. Within the Anaconda Prompt one can use *dir* and *cd* to find and change between different environments.
 
 * Activate the environment
 	```
@@ -26,6 +26,7 @@ There two ways, how to run these notebooks, a provided docker container or via a
 	```
 	conda install tensorflow=1.1.0
 	conda install keras 
+	conda install -c conda-forge ipywidgets
 	```
 
 
