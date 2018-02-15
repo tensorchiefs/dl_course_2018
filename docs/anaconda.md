@@ -19,6 +19,8 @@ There two ways, how to run these notebooks, a provided docker container or via a
 * Activate the environment
 	```
 	source activate dl_course
+	#or
+	activate dl_course
 	```
 	
 
