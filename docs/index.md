@@ -125,7 +125,7 @@ Otherwise the rendering is brolen
         		02 Linreg (with_slider) 
             <a href="exercises/02_linreg_with_slider"> Exercises</a> |
             <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/02_Linreg_with_slider.ipynb'> Notebook</a> |
-            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/02_Linreg_with_slider_solution.ipynb'> Solution LinearRegression </a> 
+            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/02_Linreg_with_slider_solution.ipynb'> Solution</a> 
         </li>
         <!-- 
         <li>
