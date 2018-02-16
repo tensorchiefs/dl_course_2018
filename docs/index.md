@@ -118,14 +118,14 @@ Otherwise the rendering is brolen
     		<li>
         		01 Matrix Multiplication 
             <a href="exercises/01_tf_matrix_mult"> Exercises</a> | 
-            <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication.ipynb'> Notebook</a> | 
-            <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication_solution.ipynb'> Solution</a> 
+            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/01_MatrixMultiplication.ipynb'> Notebook</a> | 
+            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/01_MatrixMultiplication_solution.ipynb'> Solution</a> 
         </li>
     		<li>
-        		02 Linreg (with_slider_solution) 
+        		02 Linreg (with_slider) 
             <a href="exercises/02_linreg_with_slider"> Exercises</a> |
-            <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/02_Linreg_with_slider.ipynb'> Notebook</a> 
-            <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/02_Linreg_with_slider_solution.ipynb'> Solution LinearRegression </a> 
+            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/02_Linreg_with_slider.ipynb'> Notebook</a> |
+            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/02_Linreg_with_slider_solution.ipynb'> Solution LinearRegression </a> 
         </li>
         <!-- 
         <li>
