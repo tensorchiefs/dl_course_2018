@@ -95,7 +95,7 @@ Otherwise the rendering is brolen
     <tr>
     <td style="text-align: left;" valign="top">1</td>  
   	<td style="text-align: left;" valign="top"> 
-        <b>Deep learning basics</b> <a href="https://www.dropbox.com/s/bvgd0wsp0zkgjm0/lecture01.pdf?dl=1">slides</a>
+        <b>Deep learning basics</b> <a href="https://www.dropbox.com/s/z05k981kx0oechm/lecture01.pdf?dl=1">slides</a>
       		<ul>
       			<li>Overview of deep learning</li>
       			<li>Computational graphs, feeding and fetching</li>
