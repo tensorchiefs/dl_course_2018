@@ -140,6 +140,36 @@ Otherwise the rendering is brolen
       </ul>
     </td>   
   </tr>
+  <!--  ------------------------------------- -->
+    <!--  Woche 2 -->
+    <!--  ------------------------------------- -->
+    <tr>
+    <td style="text-align: left;" valign="top">2</td>  
+    <td style="text-align: left;" valign="top"> 
+       <b>Gradient Descent and loss functions for classification</b> <a href="https://www.dropbox.com/s/lurmsqh1exedtkk/lecture02.pdf?dl=1">slides</a>
+          <ul>
+            <li>Gradient Descent</li>
+            <li>Logistic regression</li>
+            <li>Multinomial Logistic Regression</li>
+          </ul>
+    </td>
+    <!--  Additional Material -->
+    <td style="text-align: left;" valign="top"> 
+      <ul>
+        <li> DL-book chapter 6</li>
+        <li> DL-book chapter 3</li>
+        <li> <a href="https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss">Cross Entropy Loss </a></li>
+       </ul>
+    </td>    
+    <!--  Exercises and Homework -->
+    <td style="text-align: left;" valign="top">
+      <ul>
+          <li>
+            <a href='exercises/03a_exercises_tf_playgound_day2'> log. reg. in TF-playground</a> 
+          </li>
+      </ul>
+    </td>   
+  </tr>
 </table>
  
 
