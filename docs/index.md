@@ -99,7 +99,7 @@ Otherwise the rendering is brolen
       		<ul>
       			<li>Overview of deep learning</li>
       			<li>Computational graphs, feeding and fetching</li>
-      			<li>Loss function (crossentropy)</li>
+      			<li>Loss function (RMS)</li>
       			<li>Gradient descent and generalizations</li>
       			<li>Example: linear regression</li>
       		</ul>
