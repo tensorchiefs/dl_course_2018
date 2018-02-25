@@ -168,7 +168,7 @@ Otherwise the rendering is brolen
             <a href='exercises/03a_exercises_tf_playgound_day2'> log. reg. in TF-playground</a> 
           </li>
     		<li>
-        		Logistic Regression (Challenger)
+        		03 Logistic Regression (Challenger)
             <a href="exercises/03_log_reg_challenger"> Exercises</a> |
             <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/03_log_reg_challenger.ipynb'> Notebook</a> |
             <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/03_log_reg_challenger_solution.ipynb'> Solution</a> 
