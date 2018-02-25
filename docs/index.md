@@ -176,7 +176,7 @@ Otherwise the rendering is brolen
     		<li>
         		04 Multinomial Logistic Regression 
             <a href="exercises/04_Multinomial_Logistic_Regression"> Exercises</a> |
-            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/04_Multinomial_Logistic_Regression'> Notebook</a> |
+            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/04_Multinomial_Logistic_Regression.ipynb'> Notebook</a> |
             <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/04_Multinomial_Logistic_Regression_solution.ipynb'> Solution</a> 
         </li>         
       </ul>
