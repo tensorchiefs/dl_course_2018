@@ -175,7 +175,7 @@ Otherwise the rendering is brolen
         </li>  
         <li>
             Multinomial Logistic Regression (forward pass, numpy, see slides) 
-            <a href="exercises/04_multinomial_forward_pass_solution"> Solution</a>
+            <a href="exercises/04_multinomial_forward_pass_solution.ipynb"> Solution</a>
         </li>
     		<li>
         		04 Multinomial Logistic Regression 
