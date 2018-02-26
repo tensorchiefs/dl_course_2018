@@ -173,6 +173,10 @@ Otherwise the rendering is brolen
             <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/03_log_reg_challenger.ipynb'> Notebook</a> |
             <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/03_log_reg_challenger_solution.ipynb'> Solution</a> 
         </li>  
+        <li>
+            Multinomial Logistic Regression (forward pass, numpy, see slides) 
+            <a href="exercises/04_multinomial_forward_pass_solution"> Solution</a>
+        </li>
     		<li>
         		04 Multinomial Logistic Regression 
             <a href="exercises/04_Multinomial_Logistic_Regression"> Exercises</a> |
