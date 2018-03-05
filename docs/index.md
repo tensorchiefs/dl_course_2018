@@ -214,13 +214,14 @@ Otherwise the rendering is brolen
   <td>
   	<ul>
       <li>
-        06 Fully Connected Network MNIST <a href="exercises/06_fcn_MNIST"> Exercises</a>
-  			<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/06_fcn_MNIST_solution.ipynb'> Solution  </a> 
+        05 Fully Connected Network MNIST <a href="exercises/05_fcn_MNIST"> Exercises</a> |
+		<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/05_fcn_MNIST.ipynb'> Notebook</a> |
+		<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/05_fcn_MNIST_solution.ipynb'> Solution  </a> 
       </li>
-  			<li> 07 Fully Connected network (Tricks of the Trade)
-      <a href="exercises/07_fcn_MNIST_tricks"> Exercises</a>
-      <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_fcn_MNIST_keras_solution.ipynb'> Solution </a> 
-  			</li>
+  			<li> 06 Fully Connected network (Tricks of the Trade)
+      		<a href="exercises/06_fcn_MNIST_tricks"> Exercises</a> |
+		<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/06_fcn_MNIST_keras.ipynb'> Notebook</a> |
+		<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/06_fcn_MNIST_keras_solution.ipynb'> Solution   			</li>
      </ul>
   </td>
 </tr>
