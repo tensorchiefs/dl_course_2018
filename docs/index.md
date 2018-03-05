@@ -140,7 +140,7 @@ Otherwise the rendering is brolen
       </ul>
     </td>   
   </tr>
-  <!--  ------------------------------------- -->
+    <!--  ------------------------------------- -->
     <!--  Woche 2 -->
     <!--  ------------------------------------- -->
     <tr>
@@ -186,6 +186,44 @@ Otherwise the rendering is brolen
       </ul>
     </td>   
   </tr>
+    <!--  ------------------------------------- -->
+    <!--  Woche 3 -->
+    <!--  ------------------------------------- -->
+  <tr>
+  <td>3</td>
+  <td> 
+	<b>Going Deeper / Tricks of the trade</b> <a href="https://www.dropbox.com/s/9043ypt8v5awnnb/lecture03.pdf?dl=1">slides </a>
+  		<ul>
+		<li>Fully connected network</li>
+		<li>Backpropagation and Gradient Flow</li>
+		<li>ReLU</li>
+		<li>Regularization:
+  				<ul>
+  					<li>Early stopping</li>
+  					<li>Dropout</li>
+  				</ul>
+  			</li>
+  		</ul>
+  </td>
+  <td> 
+    <ul>
+      <li> <a href='http://cs231n.github.io/optimization-2/'> Backpropagation </a>  </li>
+  <li> DL-book chapter 7 (for regularization)</li>
+    </ul>
+  </td>
+  <td>
+  	<ul>
+      <li>
+        06 Fully Connected Network MNIST <a href="exercises/06_fcn_MNIST"> Exercises</a>
+  			<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/06_fcn_MNIST_solution.ipynb'> Solution  </a> 
+      </li>
+  			<li> 07 Fully Connected network (Tricks of the Trade)
+      <a href="exercises/07_fcn_MNIST_tricks"> Exercises</a>
+      <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_fcn_MNIST_keras_solution.ipynb'> Solution </a> 
+  			</li>
+     </ul>
+  </td>
+</tr>
 </table>
  
 
