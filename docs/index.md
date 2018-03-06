@@ -221,10 +221,10 @@ Otherwise the rendering is brolen
   		<li> 06 Fully Connected network (Tricks of the Trade)
       		<a href="exercises/06_fcn_MNIST_tricks"> Exercises</a> |
 		<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/06_fcn_MNIST_keras.ipynb'> Notebook</a> |
-		<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/06_fcn_MNIST_keras_solution.ipynb'> Solution   	 
-			<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/docs/keras-short-intro.pdf'> Keras intro
-			</a> 
-		
+		<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/06_fcn_MNIST_keras_solution.ipynb'> Solution   	 </a>
+     </li>
+      <li>
+		<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/docs/keras-short-intro.pdf'>  Keras intro </a>	
 	</li>
      </ul>
   </td>
