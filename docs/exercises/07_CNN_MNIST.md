@@ -70,11 +70,11 @@ Do you expect with this cnn1 more or less overfitting then in the fc NN above? W
 Please open the ipython-Notebook [cnn1_mnist](https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_cnn1_mnist.ipynb) and 
 try to understand the code and run the code.
 
-Train the model without first standardizing the data which would be done in code cell 7. (cell is a comment here)
-How large is now the accuracy on the validation set? Can you explain, what happened?
+Train the model without first standardizing the data which would be done in code cell 7 (cell is a comment here). 
+What is the accuracy on the validation set, now? Can you explain, what happened?
 
 Now train the model with standardizing the data by running the rest of the cells.
-How large is the accuracy on the validation and test set now? Do you observe overfitting? 
+How good is the accuracy on the validation and test set now? Do you observe overfitting? 
 Describe how you check for overfitting and/or sketch the corresponding graph.
 
 
