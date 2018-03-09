@@ -229,9 +229,56 @@ Otherwise the rendering is brolen
      </ul>
   </td>
 </tr>
+    <!--  ------------------------------------- -->
+    <!--  Woche 3 -->
+    <!--  ------------------------------------- -->
+    <tr>
+      <td>4</td>
+      <td> 
+      		<b>Convolutional Neural Networks I</b> 
+		<a href="https://www.dropbox.com/s/99qgtofbao5je8t/CNN-Tag4-CNN-presented.pdf?dl=1">slides</a>
+      		<ul>
+		        <li>Batch-Normalization</li>
+      			<li>Why going beyond fully connected NN?</li> 
+      			<li>What is convolution?</li>      			
+      			<li>Building a CNN</li>
+			<li>Simlarities between a CNN and the brain</li>
+      		</ul>
+      </td>
+      <td> 
+        <ul>
+	<li>
+	<a href="https://github.com/vdumoulin/conv_arithmetic">Convolution arithmetic</a>
+	</li>
+	<li>
+	<a href="http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html">demo CNN and activation maps</a>
+	</li>
+        </ul>
+      </td>
+      <td>
+      	<ul>
+	<li> finger-exercise ReLu
+	<a href="https://www.dropbox.com/s/yogcjidr7ng3qtb/08a-Schnelluebung-ReLu.pdf?dl=1"> Exercise</a>|
+	<a href='https://www.dropbox.com/s/d1se84xdui3uwqz/08a-Schnelluebung-ReLu-solution.pdf?dl=1'> Solution </a> 
+      	</li>
+	<li>
+	08 CNN <a href="exercises/08_CNN_MNIST"> Exercises</a>
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist.ipynb">Solution CNN1 with centered MNIST</a>|
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist_no_centering.ipynb"> Solution CNN1  without centering</a>|
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn2_mnist_solution.ipynb">Solution CNN2  MNIST</a>
+	</li>
+	<li>
+      	09 and 10 Homework: 8 Faces
+	<a href="https://www.dropbox.com/sh/oek6lcshf9ws8o4/AAB5hSpN328raDkbdYHH_YsQa?dl=0&preview=8_faces_dataoverview.html"> Data overview</a>|
+	<a href="exercises/09_10_8_faces">Exercise </a>|
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/09_8_faces_only_fc_solution.ipynb"> FC Solution</a>|
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/10_8_faces_cnn_solution.ipynb"> CNN Solution</a>	
+      	</li>
+	</ul>
+        </td>
+        </tr>
 </table>
  
-
 
 
 
