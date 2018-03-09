@@ -236,7 +236,7 @@ Otherwise the rendering is brolen
       <td>4</td>
       <td> 
       		<b>Convolutional Neural Networks I</b> 
-		<a href="https://www.dropbox.com/s/99qgtofbao5je8t/CNN-Tag4-CNN-presented.pdf?dl=1">slides</a>
+		<!-- <a href="https://www.dropbox.com/s/99qgtofbao5je8t/CNN-Tag4-CNN-presented.pdf?dl=1">slides</a> -->
       		<ul>
 		        <li>Batch-Normalization</li>
       			<li>Why going beyond fully connected NN?</li> 
