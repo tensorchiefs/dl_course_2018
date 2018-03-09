@@ -70,17 +70,19 @@ Do you expect with this cnn1 more or less overfitting then in the fc NN above? W
 Please open the ipython-Notebook [cnn1_mnist](https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_cnn1_mnist.ipynb) and 
 try to understand the code and run the code.
 
-Train the model without first standardizing the data which would be done in code cell 7 (cell is a comment here). 
-What is the accuracy on the validation set, now? Can you explain, what happened?
+Train the model without first standardizing the data which would be done in code cell 7 (cell is a comment here).  
+What is the accuracy on the validation set, now?  
+Can you explain, what happened?
 
 Now train the model with standardizing the data by running the rest of the cells.
-How good is the accuracy on the validation and test set now? Do you observe overfitting? 
+How good is the accuracy on the validation and test set now?  
+Do you observe overfitting?  
 Describe how you check for overfitting and/or sketch the corresponding graph.
 
 
-c) Lets use more Convolutional Layers and also Dropout and Batchnorm.
-Please open the ipython-Notebook [cnn2_mnist](https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/08_cnn2_mnist.ipynb). 
-Look for the position in the code which is marked by "# here is your code coming:" and add the missing layers - the missing layers are marked  below. 
+c) Lets use more Convolutional Layers and also Dropout and Batchnorm.  
+Please open the ipython-Notebook [cnn2_mnist](https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/08_cnn2_mnist.ipynb).   
+Look for the position in the code which is marked by "# here is your code coming:" and add the missing layers - the missing layers are marked  below.  
 How is the performance of cnn2?
 ```
 _________________________________________________________________
