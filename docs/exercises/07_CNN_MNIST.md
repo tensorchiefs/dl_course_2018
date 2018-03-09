@@ -8,9 +8,9 @@ title: Deep Learning Course
 Exercise 1:  
 We want to investigate, if a CNN outperforms a fc NN on image data.  
 
-First we recall the design of the fc NN which performed so far best on MNIST when only keeping 4000 examples in the 
+First we recall the design of the fc NN which performed so far best on MNIST when only keeping 2400 examples in the 
 training data set (see below). With this NN we have reached ~91% accuracy on the validation data set. 
-[06_fcn_MNIST_keras_solution](https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/06_fcn_MNIST_keras_solution.ipynb)
+[fcn_MNIST_keras](https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/06_fcn_MNIST_keras_solution.ipynb)
 ```
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
@@ -44,31 +44,30 @@ Remark: dense layer is the same as fully connected layer.
 
 b) Now we want to use our first CNN with only 1 convolutional and 1 dense layer:
 ```
-
-____________________________________________________________________________________________________
-Layer (type)                     Output Shape          Param #     Connected to                     
-====================================================================================================
-convolution2d_1 (Convolution2D)  (None, 28, 28, 32)    320         convolution2d_input_1[0][0]      
-____________________________________________________________________________________________________
-activation_1 (Activation)        (None, 28, 28, 32)    0           convolution2d_1[0][0]            
-____________________________________________________________________________________________________
-flatten_1 (Flatten)              (None, 25088)         0           activation_1[0][0]               
-____________________________________________________________________________________________________
-dense_1 (Dense)                  (None, 10)            250890      flatten_1[0][0]                  
-____________________________________________________________________________________________________
-activation_2 (Activation)        (None, 10)            0           dense_1[0][0]                    
-====================================================================================================
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+conv2d_1 (Conv2D)            (None, 28, 28, 32)        320       
+_________________________________________________________________
+activation_1 (Activation)    (None, 28, 28, 32)        0         
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 25088)             0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 10)                250890    
+_________________________________________________________________
+activation_2 (Activation)    (None, 10)                0         
+=================================================================
 Total params: 251,210
 Trainable params: 251,210
 Non-trainable params: 0
-____________________________________________________________________________________________________
+_________________________________________________________________
 ```
 
 In which layer do we need to learn most parameter/weights?
 
 Do you expect with this cnn1 more or less overfitting then in the fc NN above? Why?
 
-Please open the ipython-Notebook [08_cnn1_mnist.ipynb](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist.ipynb) and 
+Please open the ipython-Notebook [cnn1_mnist](https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_cnn1_mnist.ipynb) and 
 try to understand the code and run the code.
 
 Train the model without first standardizing the data which would be done in code cell 7. (cell is a comment here)
@@ -79,10 +78,9 @@ How large is the accuracy on the validation and test set now? Do you observe ove
 Describe how you check for overfitting and/or sketch the corresponding graph.
 
 
-
-c) Lets use the more Convolutional Layers and also Dropout and Batchnorm.
-Please open the ipython-Notebook [08_cnn2_mnist_No_solution.ipynb](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn2_mnist_No_solution.ipynb). 
-Search for the position in the code which is marked by "# here is your code coming:" and add the missing layers - the missing layers are marked  below. 
+c) Lets use more Convolutional Layers and also Dropout and Batchnorm.
+Please open the ipython-Notebook [cnn2_mnist](https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/08_cnn2_mnist.ipynb). 
+Look for the position in the code which is marked by "# here is your code coming:" and add the missing layers - the missing layers are marked  below. 
 How is the performance of cnn2?
 ```
 _________________________________________________________________
