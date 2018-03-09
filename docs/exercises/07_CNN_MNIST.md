@@ -5,7 +5,6 @@ title: Deep Learning Course
 ---
 ## Convolutional Neural Networks for image data
 
-Exercise 1:  
 We want to investigate, if a CNN outperforms a fc NN on image data.  
 
 First we recall the design of the fc NN which performed so far best on MNIST when only keeping 2400 examples in the 
