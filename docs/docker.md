@@ -23,6 +23,9 @@ If you want to access a directory here (/Users/oli/Documents/workspace/dl_tutori
 
 ```
 docker run -p 8888:8888 -p 6006:6006 -v /Users/oli/Documents/workspace/dl_tutorial/:/notebooks/local/ -it oduerr/tf_docker:cpu_r
+#of for windows users
+docker run -p 8888:8888 -p 6006:6006 -v /c/Users/Elvis/Desktop/:/notebooks/ -it oduerr/tf_docker:cpu_r
+
 ```
 
 
