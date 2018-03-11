@@ -22,5 +22,4 @@ You will get the test data next week and the team with the best accuracy on the 
 
 Hint 1: Is it a good idea to use a fully connected neural network on this dataset?  
 
-Hint 2 : The training of more complex networks could take some time because we compute only on cpu.  
-(up to 1h)
+Hint 2 : The training of more complex networks could take some time because we compute only on cpu. (up to 1h)
