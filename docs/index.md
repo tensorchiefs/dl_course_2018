@@ -262,18 +262,17 @@ Otherwise the rendering is brolen
 	<a href='https://www.dropbox.com/s/d1se84xdui3uwqz/08a-Schnelluebung-ReLu-solution.pdf?dl=1'> Solution </a> 
       	</li>
 	<li>
-	07 CNN <a href="exercises/07_CNN_MNIST"> Exercises</a> |
+	07 and 08 CNN <a href="exercises/07_CNN_MNIST"> Exercises</a> |
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_cnn1_mnist.ipynb"> CNN1 Notebook </a>|
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_cnn1_mnist_solution.ipynb"> CNN1 Solution </a>|
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/08_cnn2_mnist.ipynb"> CNN2 Notebook </a>|		
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/08_cnn2_mnist_solution.ipynb"> CNN2 Solution </a>		
 	</li>
 	<li>
-      	09 and 10 Homework: 8 Faces
+      	09 Homework: 8 Faces
 	<a href="https://www.dropbox.com/sh/oek6lcshf9ws8o4/AAB5hSpN328raDkbdYHH_YsQa?dl=0&preview=8_faces_dataoverview.html"> Data overview</a>|
-	<a href="exercises/09_10_8_faces">Exercise </a>|
-	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/09_8_faces_only_fc_solution.ipynb"> FC Solution</a>|
-	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/10_8_faces_cnn_solution.ipynb"> CNN Solution</a>	
+	<a href="exercises/09_8_faces">Exercise </a>|
+	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/09_8_faces_fc.ipynb"> FC Solution</a>
       	</li>
 	</ul>
         </td>
