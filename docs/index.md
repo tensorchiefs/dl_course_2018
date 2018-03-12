@@ -236,7 +236,7 @@ Otherwise the rendering is brolen
       <td>4</td>
       <td> 
       		<b>Convolutional Neural Networks I</b> 
-		<!-- <a href="https://www.dropbox.com/s/99qgtofbao5je8t/CNN-Tag4-CNN-presented.pdf?dl=1">slides</a> -->
+		<a href="https://www.dropbox.com/s/5mum6f7at1e8fxt/CNN-Tag4-CNN-plan-v3.pptx?dl=0">slides</a> 
       		<ul>
 		        <li>Why going beyond fully connected NN?</li> 
       			<li>What is convolution?</li>      			
@@ -255,7 +255,7 @@ Otherwise the rendering is brolen
       </td>
       <td>
       	<ul>
-	<li> finger-exercise ReLu
+	<!--<a<li> finger-exercise ReLu/a>|-->
 	<!--<a href="https://www.dropbox.com/s/yogcjidr7ng3qtb/08a-Schnelluebung-ReLu.pdf?dl=1"> Exercise</a>|-->
 	<!--<a href='https://www.dropbox.com/s/d1se84xdui3uwqz/08a-Schnelluebung-ReLu-solution.pdf?dl=1'> Solution </a> -->
       	</li>
