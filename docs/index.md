@@ -230,7 +230,7 @@ Otherwise the rendering is brolen
   </td>
 </tr>
     <!--  ------------------------------------- -->
-    <!--  Woche 3 -->
+    <!--  Woche 4 -->
     <!--  ------------------------------------- -->
     <tr>
       <td>4</td>
@@ -238,11 +238,9 @@ Otherwise the rendering is brolen
       		<b>Convolutional Neural Networks I</b> 
 		<!-- <a href="https://www.dropbox.com/s/99qgtofbao5je8t/CNN-Tag4-CNN-presented.pdf?dl=1">slides</a> -->
       		<ul>
-		        <li>Batch-Normalization</li>
-      			<li>Why going beyond fully connected NN?</li> 
+		        <li>Why going beyond fully connected NN?</li> 
       			<li>What is convolution?</li>      			
       			<li>Building a CNN</li>
-			<li>Simlarities between a CNN and the brain</li>
       		</ul>
       </td>
       <td> 
@@ -258,8 +256,8 @@ Otherwise the rendering is brolen
       <td>
       	<ul>
 	<li> finger-exercise ReLu
-	<a href="https://www.dropbox.com/s/yogcjidr7ng3qtb/08a-Schnelluebung-ReLu.pdf?dl=1"> Exercise</a>|
-	<a href='https://www.dropbox.com/s/d1se84xdui3uwqz/08a-Schnelluebung-ReLu-solution.pdf?dl=1'> Solution </a> 
+	<!--<a href="https://www.dropbox.com/s/yogcjidr7ng3qtb/08a-Schnelluebung-ReLu.pdf?dl=1"> Exercise</a>|-->
+	<!--<a href='https://www.dropbox.com/s/d1se84xdui3uwqz/08a-Schnelluebung-ReLu-solution.pdf?dl=1'> Solution </a> -->
       	</li>
 	<li>
 	07 and 08 CNN <a href="exercises/07_CNN_MNIST"> Exercises</a> |
