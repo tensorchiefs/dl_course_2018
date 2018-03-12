@@ -236,7 +236,7 @@ Otherwise the rendering is brolen
       <td>4</td>
       <td> 
       		<b>Convolutional Neural Networks I</b> 
-		<a href="https://www.dropbox.com/s/5mum6f7at1e8fxt/CNN-Tag4-CNN-plan-v3.pptx?dl=0">slides</a> 
+		<a href="https://www.dropbox.com/s/tq2j6vardoo6ncg/CNN-Tag4-upload.pptx?dl=0">slides</a> 
       		<ul>
 		        <li>Why going beyond fully connected NN?</li> 
       			<li>What is convolution?</li>      			
