@@ -258,13 +258,13 @@ Otherwise the rendering is brolen
 	<!--<a<li> finger-exercise ReLu/a>|-->
 	<!--<a href="https://www.dropbox.com/s/yogcjidr7ng3qtb/08a-Schnelluebung-ReLu.pdf?dl=1"> Exercise</a>|-->
 	<!--<a href='https://www.dropbox.com/s/d1se84xdui3uwqz/08a-Schnelluebung-ReLu-solution.pdf?dl=1'> Solution </a> -->
-      	</li>
+      	<!--</li> -->
 	<li>
 	07 and 08 CNN <a href="exercises/07_CNN_MNIST"> Exercises</a> |
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_cnn1_mnist.ipynb"> CNN1 Notebook </a>|
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_cnn1_mnist_solution.ipynb"> CNN1 Solution </a>|
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/08_cnn2_mnist.ipynb"> CNN2 Notebook </a>|		
-	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/08_cnn2_mnist_solution.ipynb"> CNN2 Solution </a>		
+	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/08_cnn2_mnist_solution.ipynb"> CNN2 Solution </a>	
 	</li>
 	<li>
       	09 Homework: 8 Faces
