@@ -268,7 +268,7 @@ Otherwise the rendering is brolen
 	</li>
 	<li>
       	09 Homework: 8 Faces
-	<a href="https://www.dropbox.com/sh/oek6lcshf9ws8o4/AAB5hSpN328raDkbdYHH_YsQa?dl=0&preview=8_faces_dataoverview.html"> Data overview</a>|
+	<a href="https://www.dropbox.com/s/aufw2awv7s0dqm5/8_faces_dataoverview.html?dl=1"> Data overview</a>|
 	<a href="exercises/09_8_faces">Exercise </a>|
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/09_8_faces_fc.ipynb"> FC Solution</a>
       	</li>
