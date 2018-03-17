@@ -275,13 +275,50 @@ Otherwise the rendering is brolen
 	</ul>
         </td>
         </tr>
+    <!--  ------------------------------------- -->
+    <!--  Woche 5 -->
+    <!--  ------------------------------------- -->
+    <tr>
+      <td>5</td>
+      <td> 
+      	<b>Convolutional Neural Networks II</b> <a href="https://www.dropbox.com/s/p43uvk46hom9zhw/DL-day5-presented.pdf?dl=1">slides</a>
+      		<ul>
+   					<li>Typical CNN architectures</li>
+					<li>Transfer learning: Use pretrained nets for fine-tuning or feature generator</li>
+					<li>Feature/activation maps in detail</li>
+					<li>Understand CNN features</li>		
+      		</ul>
+      </td>
+      <td> 
+        <ul>
+	<li>
+	<a href="https://transcranial.github.io/keras-js/#/mnist-cnn">live CNN in browser</a>
+	</li>
+	<li>
+	<a href="http://yosinski.com/deepvis">Understanding CNNs through visualization</a>
+	</li>
+	<li>
+	<a href="http://cs231n.github.io/understanding-cnn/">cs231 on visualization CNNs</a>
+	</li>
+	<li>
+	<a href="https://blog.keras.io/category/demo.html">Use keras to visualize which image features activate a feature map</a>
+	</li>
+        </ul>
+      </td>
+      <td>
+      	<ul>
+	<li> 12 transfer learning<a href="exercises/12_8_faces_fine_tuning"> Exercises</a> | 
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/12_8_faces_fine_tuning_solution.ipynb">Solution</a>
+	<li>
+      	13a optimized image<a href="https://www.dropbox.com/s/956jxouq0eqisn8/13-exercises-optimized-image.pdf?dl=1"> Exercise</a>|
+	<a href="https://www.dropbox.com/s/5zyntjgff9k5cgm/13-exercises-optimized-image-solution.pdf?dl=1">Solution</a>|
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/13-optimize-image.ipynb"> Notebook</a>
+	</li>		
+	<li>13b adversarial example<a href="https://www.dropbox.com/s/sf8k96kxinknzfh/14-adversarial-example.pdf?dl=1"> Exercises</a> |
+	<a href="https://www.dropbox.com/s/8cgm7cvr1lcqfsd/14-adversarial-example-solution.pdf?dl=1">Solution</a>
+      	</li>	
 </table>
  
-
-
-
-
-
 
 
 
