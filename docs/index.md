@@ -317,7 +317,7 @@ Otherwise the rendering is brolen
     <li>13b adversarial example<a href="https://www.dropbox.com/s/sf8k96kxinknzfh/14-adversarial-example.pdf?dl=1"> Exercises</a> |
     <a href="https://www.dropbox.com/s/8cgm7cvr1lcqfsd/14-adversarial-example-solution.pdf?dl=1"> Solution</a>
     </li>
-    </ul>
+   </ul>
     </td>
     </tr>
 </table>  
