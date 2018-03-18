@@ -308,8 +308,12 @@ Otherwise the rendering is brolen
     <td>
     <ul>
     <li> 
-    12 transfer learning<a href="exercises/12_8_faces_fine_tuning"> Exercises</a> |   			
-    <a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/12_8_faces_fine_tuning_solution.ipynb">Solution</a>
+    10 Homework: 8 faces <a href=""> possible Solution</a> 
+    </li>
+    <li> 
+    11 transfer learning<a href="exercises/11_8_faces_fine_tuning"> Exercises</a> |
+    <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/11_8_faces_fine_tuning.ipynb"> Notebook </a>|
+    <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/11_8_faces_fine_tuning_solution.ipynb"> Solution</a>
     </li>
     <li>
     13a optimized image<a href="https://www.dropbox.com/s/956jxouq0eqisn8/13-exercises-optimized-image.pdf?dl=1"> Exercise</a>|
