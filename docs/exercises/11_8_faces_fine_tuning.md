@@ -13,7 +13,7 @@ and then train a small fully connected network for our own labels. The feature e
 a) What do you expect, will it increase our performance? Why? What's the idea behind this so called fine tuning?
 
 
-b) Open the notebook [8 faces fine tuning](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/12_8_faces_fine_tuning.ipynb) and bulit this network and then train it.  
+b) Open the notebook [8 faces fine tuning](https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/11_8_faces_fine_tuning.ipynb) and bulit this network and then train it.  
 ```​
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
