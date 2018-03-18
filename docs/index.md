@@ -283,8 +283,8 @@ Otherwise the rendering is brolen
     <td> 
     <b>Convolutional Neural Networks II</b> <!-- <a href="https://www.dropbox.com/s/p43uvk46hom9zhw/DL-day5-presented.pdf?dl=1">slides</a> -->
     <ul>
-    <li>Which ingredients are necessary to get well performing CNN?</li>
-    <li>What to do in case of limited data? data augmentation, transfer learning</li>
+    <li>Which ingredients are necessary to get a well performing CNN?</li>
+    <li>What to do in case of limited data? g</li>
     <li>What is a CNN looking at?</li>
     <li>Checking out challange-winning CNN architectures</li>
     </ul>
