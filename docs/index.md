@@ -281,12 +281,12 @@ Otherwise the rendering is brolen
     <tr>
     <td>5</td>
     <td> 
-    <b>Convolutional Neural Networks II</b> <a href="https://www.dropbox.com/s/p43uvk46hom9zhw/DL-day5-presented.pdf?dl=1">slides</a>
+    <b>Convolutional Neural Networks II</b> <!-- <a href="https://www.dropbox.com/s/p43uvk46hom9zhw/DL-day5-presented.pdf?dl=1">slides</a> -->
     <ul>
-    <li>Typical CNN architectures</li>
-    <li>Transfer learning: Use pretrained nets for fine-tuning or feature generator</li>
-    <li>Feature/activation maps in detail</li>
-    <li>Understand CNN features</li>   					
+    <li>Which ingredients are necessary to get well performing CNN?</li>
+    <li>What to do in case of limited data? data augmentation, transfer learning</li>
+    <li>What is a CNN looking at?</li>
+    <li>Checking out challange-winning CNN architectures</li>
     </ul>
     </td>
     <td> 
