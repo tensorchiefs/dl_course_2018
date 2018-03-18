@@ -281,10 +281,10 @@ Otherwise the rendering is brolen
     <tr>
     <td>5</td>
     <td> 
-    <b>Convolutional Neural Networks II</b> <!-- <a href="https://www.dropbox.com/s/p43uvk46hom9zhw/DL-day5-presented.pdf?dl=1">slides</a> -->
+    <b>Convolutional Neural Networks II</b> <a href="https://www.dropbox.com/s/8vi4cxdj90gjuns/DL-day5-before.pdf?dl=1">slides</a> 
     <ul>
     <li>Which ingredients are necessary to get a well performing CNN?</li>
-    <li>What to do in case of limited data? g</li>
+    <li>What to do in case of limited data? </li>
     <li>What is a CNN looking at?</li>
     <li>Checking out challange-winning CNN architectures</li>
     </ul>
