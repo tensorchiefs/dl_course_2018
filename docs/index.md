@@ -308,7 +308,6 @@ Otherwise the rendering is brolen
     <td>
     <ul>
     <li> 
-    10 Homework: 8 faces <a href=""> possible Solution</a> 
     </li>
     <li> 
     11 transfer learning<a href="exercises/11_8_faces_fine_tuning"> Exercises</a> |
