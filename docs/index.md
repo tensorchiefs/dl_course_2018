@@ -8,7 +8,7 @@ This course in deep learning focuses on practical aspects of deep learning.
 
 For doing the hands-on part on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
 
-To run some code on a free google GPU server you can follow the [instructions how to used google colab](co.md).
+To run some code on a free google GPU server you can follow the [instructions how to use google colab](co.md).
 
 To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
 
