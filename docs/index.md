@@ -308,6 +308,7 @@ Otherwise the rendering is brolen
     <td>
     <ul>
     <li> 
+    10 Homework: 8 faces <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/10_8_faces_cnn.ipynb"> possible Solution</a> 
     </li>
     <li> 
     11 transfer learning<a href="exercises/11_8_faces_fine_tuning"> Exercises</a> |
