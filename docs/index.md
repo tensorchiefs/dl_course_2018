@@ -6,7 +6,9 @@ title: Deep Learning Course
 
 This course in deep learning focuses on practical aspects of deep learning. 
 
-For the hands-on part you could install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
+For doing the hands-on part on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
+
+To run some code on a GPU server you can use google colab [https://colab.research.google.com](https://colab.research.google.com), where you can upload, edit and run ipython notebooks. Tensorflow and keras along with the most important packages are already installed and additional packages can be added by system calls from the ipython notebook. It is possible to upload and download data or checkpoints with model weights and we have prepared an [example notebook](https://drive.google.com/file/d/1ywf7RP-LYpmJZk7xSUMpCXImwajYoXjA/view?usp=sharing) where you can see how to do that. 
 
 To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
 
@@ -236,7 +238,7 @@ Otherwise the rendering is brolen
       <td>4</td>
       <td> 
       		<b>Convolutional Neural Networks I</b>    
-		<a href="https://www.dropbox.com/s/38k2eyuqb5ek7lf/CNN-Tag4-upload.pdf?dl=1">slides</a> 
+		<a href="https://www.dropbox.com/s/qezz6pe0fg3uyc5/CNN-Tag4-CNN-presented.pdf?dl=1">slides</a> 
       		<ul>
 		        <li>Why going beyond fully connected NN?</li> 
       			<li>What is convolution?</li>      			
@@ -281,7 +283,7 @@ Otherwise the rendering is brolen
     <tr>
     <td>5</td>
     <td> 
-    <b>Convolutional Neural Networks II</b> <a href="https://www.dropbox.com/s/aoyg4bawa309n6j/DL-day5-plan.pdf?dl=1">slides</a> 
+    <b>Convolutional Neural Networks II</b> <a href="https://www.dropbox.com/s/dfdj2d3eqbutg54/DL-day5-presented.pdf?dl=1">slides</a> 
     <ul>
     <li>Which ingredients are necessary to get a well performing CNN?</li>
     <li>What to do in case of limited data? </li>
