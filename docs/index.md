@@ -329,10 +329,13 @@ Otherwise the rendering is brolen
     </ul>
    </td>
  </tr>
+   <!--  ------------------------------------- -->
+    <!--  Woche 6 -->
+    <!--  ------------------------------------- -->
     <tr>
     <td>6</td>
      <td> 
-     <b>Recurent Neural Networks</b> <a href="https://www.dropbox.com/s/45yfkcacxggdlcu/lecture06.pdf?dl=1">slides</a>
+     <b>Recurent Neural Networks</b> <!-- <a href="https://www.dropbox.com/s/45yfkcacxggdlcu/lecture06.pdf?dl=1">slides</a>  -->
      <ul>
      <li>Recurrent Neural Networks</li>
      <li>Vanishing Gradient Problem</li>
@@ -349,10 +352,10 @@ Otherwise the rendering is brolen
       <td>
       <ul>
       <li>
-	14 Simple RNN:<a href="exercises/14_rnn_simple"> Exercises</a> | 
+	14 Simple RNN: <!-- <a href="exercises/14_rnn_simple"> Exercises</a> | 
 	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_no_solution.ipynb"> Notebook</a> |
 	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_solution.ipynb"> Solution</a>
-	<a href="https://github.com/tensorchiefs/dl_course/blob/master/exercises/15_rnn_solution_a.pdf">Solution part a</a>	
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/exercises/15_rnn_solution_a.pdf">Solution part a</a> -->	
       </li>
       <li>
 	15 Char RNN <a href="exercises/15_rnn"> Exercise</a> |
