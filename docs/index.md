@@ -329,6 +329,40 @@ Otherwise the rendering is brolen
     </ul>
    </td>
  </tr>
+    <tr>
+    <td>6</td>
+     <td> 
+     <b>Recurent Neural Networks</b> <a href="https://www.dropbox.com/s/45yfkcacxggdlcu/lecture06.pdf?dl=1">slides</a>
+     <ul>
+     <li>Recurrent Neural Networks</li>
+     <li>Vanishing Gradient Problem</li>
+     <li>GRUs</li>
+     </ul>
+     </td>
+     <td> 
+     <ul>
+     <li>Karpathy (May 2015) The unreasonable effectiveness of Recurrent Neural Networks <a href='http://karpathy.github.io/2015/05/21/rnn-effectiveness/'>(blog post)</a></li>  
+      <li>Colah (August 2015) Understanding LSTM Networks <a href='http://colah.github.io/posts/2015-08-Understanding-LSTMs/'>(blog post)</a></li>
+      <li><a href="http://www.deeplearningbook.org/contents/rnn.html">DL-book chapter 10 </a></li>
+      </ul>
+      </td>
+      <td>
+      <ul>
+      <li>
+	14 Simple RNN:<a href="exercises/14_rnn_simple"> Exercises</a> | 
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_no_solution.ipynb"> Notebook</a> |
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_solution.ipynb"> Solution</a>
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/exercises/15_rnn_solution_a.pdf">Solution part a</a>	
+      </li>
+      <li>
+	15 Char RNN <a href="exercises/15_rnn"> Exercise</a> |
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/15_char_rnn_didactic_prediction_solution.ipynb"> Notebook</a> 
+      </li> 		
+      </ul>
+      </td>
+    </tr>	
+	
+	
 </table>  
  
 
