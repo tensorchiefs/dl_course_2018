@@ -335,7 +335,7 @@ Otherwise the rendering is brolen
     <tr>
     <td>6</td>
      <td> 
-     <b>Recurent Neural Networks</b> <!-- <a href="https://www.dropbox.com/s/45yfkcacxggdlcu/lecture06.pdf?dl=1">slides</a>  -->
+     <b>Recurent Neural Networks</b> <a href="https://www.dropbox.com/s/vzcpzxg8eg5rx26/lecture06_before.pdf?dl=1">slides</a> 
      <ul>
      <li>Recurrent Neural Networks</li>
      <li>Vanishing Gradient Problem</li>
