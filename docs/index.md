@@ -353,13 +353,15 @@ Otherwise the rendering is brolen
       <td>
       <ul>
       <li>
-	14 Simple RNN: <!-- <a href="exercises/14_rnn_simple"> Exercises</a> | 
-	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_no_solution.ipynb"> Notebook</a> |
-	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_solution.ipynb"> Solution</a>
-	<a href="https://github.com/tensorchiefs/dl_course/blob/master/exercises/15_rnn_solution_a.pdf">Solution part a</a> -->	
+	12 Simple RNN <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_RNN_simple.ipynb"> Notebook </a>|
+         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_RNN_simple_solution.ipynb"> Solution</a>
       </li>
+	<li>
+	13 Stateful RNN <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/13_RNN_stateful.ipynb"> Notebook </a>|
+         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/13_RNN_stateful_solution.ipynb"> Solution</a>
+      </li>      
       <li>
-	15 Char RNN <a href="exercises/15_rnn"> Exercise</a> |
+	14 Char RNN <a href="exercises/15_rnn"> Exercise</a> |
 	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/15_char_rnn_didactic_prediction_solution.ipynb"> Notebook</a> 
       </li> 		
       </ul>
