@@ -336,7 +336,7 @@ Otherwise the rendering is brolen
     <td>6</td>
      <td> 
      <b>Modern CNN Architectures</b> <a href="https://www.dropbox.com/s/fy6x7rqnuvpxla6/DL-day6-modern-CNN-architectures.pdf?dl=1">slides</a> 
-     <b>Recurent Neural Networks</b> <a href="https://www.dropbox.com/s/vzcpzxg8eg5rx26/lecture06_before.pdf?dl=1">slides</a> 
+     <b>Recurent Neural Networks</b> <a href="https://www.dropbox.com/s/h4t2sivfd8rpn3p/lecture06_RNN.pdf?dl=1">slides</a> 
      <ul>
      <li>Recurrent Neural Networks</li>
      <li>Vanishing Gradient Problem</li>
