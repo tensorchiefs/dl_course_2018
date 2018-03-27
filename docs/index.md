@@ -361,7 +361,7 @@ Otherwise the rendering is brolen
          <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/13_RNN_stateful_solution.ipynb"> Solution</a>
       </li>      
       <li>
-	14 Char RNN <a href="exercises/15_rnn"> Exercise</a> |
+	14 Char RNN (Optional) <a href="exercises/15_rnn"> Exercise</a> |
 	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/15_char_rnn_didactic_prediction_solution.ipynb"> Notebook</a> 
       </li> 		
       </ul>
