@@ -8,9 +8,14 @@ This course in deep learning focuses on practical aspects of deep learning.
 
 For doing the hands-on part on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
 
+To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
+
+## Info for the projects
+You can join together in small groups and choose a topic for your DL project. You should prepare a poster and a spotlight talk (5 minutes) which you will present on the last course day.
+
 To run some code on a free google GPU server you can follow the [instructions how to use google colab](co.md).
 
-To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
+If you need to prepare a hdf5 file from your images you can have a look on an   <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/data_prep.ipynb"> example Notebook.</a> 
 
 ## Other resources
 We took inspiration (and sometimes slides / figures) from the following resources.
