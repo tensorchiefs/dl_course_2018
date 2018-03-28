@@ -372,7 +372,39 @@ Otherwise the rendering is brolen
       </ul>
       </td>
     </tr>	
-	
+   <!--  ------------------------------------- -->
+   <!--  Woche 7 -->
+   <!--  ------------------------------------- -->
+    <tr>
+      <td>7</td>
+      <td> 
+      <b>Un- and Semi-supervised Learning I</b> <a href="https://www.dropbox.com/s/x33aydj6ehyl15t/DL-day7-presented.pdf?dl=1">slides</a>
+      <ul>
+      <li>How to do unsupervised feature learning or representation learning?</li>
+      <!--<li>Autoencoder and denoising AE</li> -->
+      <li>Use unsupervised learned features for pattern recognition</li>
+      <li>Use unsupervised learned features for classifcation with few labeled instances</li>			
+      </ul>
+      </td>
+      <td> 
+        <ul>
+	<li><a href="https://www.dropbox.com/s/dvq5upb5nof090x/Bengio2014-representation-learning.pdf?dl=1">Bengio's Review on representation learning</a>
+        </li>
+      </ul>
+      </td>
+      <td>
+      <ul>
+      <li>		
+      16 FC and CNN Autoencoders:<a href="exercises/16_fc_cnn_denoising_autoencoder"> Exercises</a> | 
+      <a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/16_fc_cnn_denoising_autoencoder_solution.ipynb"> Solution</a>			
+      </li>
+      <li>	
+       17 Using unsupervised learned featurs for classification:<a href="exercises/17_MNIST_feature_evaluation"> Exercises</a> | 		<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/17_MNIST_feature_evaluation.ipynb"> Notebook</a> |
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/17_MNIST_feature_evaluation_solution.ipynb"> Solution</a>
+      </li>
+      </ul>
+      </td>
+    </tr>
 	
 </table>  
  
