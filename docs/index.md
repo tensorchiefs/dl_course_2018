@@ -378,12 +378,15 @@ Otherwise the rendering is brolen
     <tr>
       <td>7</td>
       <td> 
-      <b>Un- and Semi-supervised Learning I</b> <a href="https://www.dropbox.com/s/x33aydj6ehyl15t/DL-day7-presented.pdf?dl=1">slides</a>
+	      <li>
+       <b>Topic I: RNN continued, GRU, LSTM </b> </li>
+		      <li>
+      <b>Topic II: Unsupervised Feature Construction for pattern recognition and classification I</b> <!-- <a href="https://www.dropbox.com/s/x33aydj6ehyl15t/DL-day7-presented.pdf?dl=1">slides</a> -->
+			      </li>
       <ul>
-      <li>How to do unsupervised feature learning or representation learning?</li>
-      <!--<li>Autoencoder and denoising AE</li> -->
-      <li>Use unsupervised learned features for pattern recognition</li>
-      <li>Use unsupervised learned features for classifcation with few labeled instances</li>			
+      <li>Using pre-trained CNNs as feature extractor</li>
+      <li>Using unsupervised constructed features for pattern recognition in 2D plots</li>
+      <li>Using unsupervised constructed features for classifcation with few labeled instances</li>			
       </ul>
       </td>
       <td> 
@@ -395,12 +398,11 @@ Otherwise the rendering is brolen
       <td>
       <ul>
       <li>		
-      16 FC and CNN Autoencoders:<a href="exercises/16_fc_cnn_denoising_autoencoder"> Exercises</a> | 
-      <a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/16_fc_cnn_denoising_autoencoder_solution.ipynb"> Solution</a>			
+      15 Using unsupervised constructed features for pattern recognition in 2D plots: <!--  <a href="exercises/16_fc_cnn_denoising_autoencoder"> Exercises</a> | 
+      <a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/16_fc_cnn_denoising_autoencoder_solution.ipynb"> Solution</a>	-->		
       </li>
       <li>	
-       17 Using unsupervised learned featurs for classification:<a href="exercises/17_MNIST_feature_evaluation"> Exercises</a> | 		<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/17_MNIST_feature_evaluation.ipynb"> Notebook</a> |
-	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/17_MNIST_feature_evaluation_solution.ipynb"> Solution</a>
+       16 Using unsupervised constructed features for classifcation with few labeled instances:
       </li>
       </ul>
       </td>
