@@ -11,7 +11,7 @@ For doing the hands-on part on your own computer you can either install anaconda
 To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
 
 ## Info for the projects
-You can join together in small groups and choose a topic for your DL project. You should prepare a poster and a spotlight talk (5 minutes) which you will present on the last course day.
+You can join together in small groups and choose a topic for your DL project. You should prepare a poster and a spotlight talk (5 minutes) which you will present on the last course day. To get some hints how to create a good poster you can check out the links that are provieded in <a href="https://www.dropbox.com/s/u1f6mqk4pc3uhxe/poster-guidelines.pdf?dl=1">poster_guidelines.pdf</a> 
 
 To run some code on a free google GPU server you can follow the [instructions how to use google colab](co.md).
 
@@ -381,7 +381,7 @@ Otherwise the rendering is brolen
 	      <li>
        <b>Topic I: RNN continued, GRU, LSTM </b> </li>
 		      <li>
-      <b>Topic II: Unsupervised Feature Construction for pattern recognition and classification I</b> <!-- <a href="https://www.dropbox.com/s/x33aydj6ehyl15t/DL-day7-presented.pdf?dl=1">slides</a> -->
+      <b>Topic II: Unsupervised Feature Construction for pattern recognition and classification </b>  <a href="https://www.dropbox.com/s/mnn45s87wac9ju9/DL-day7-unsupervised-before.pdf?dl=1">slides</a> 
 			      </li>
       <ul>
       <li>Using pre-trained CNNs as feature extractor</li>
@@ -398,11 +398,12 @@ Otherwise the rendering is brolen
       <td>
       <ul>
       <li>		
-      15 Using unsupervised constructed features for pattern recognition in 2D plots: <!--  <a href="exercises/16_fc_cnn_denoising_autoencoder"> Exercises</a> | 
-      <a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/16_fc_cnn_denoising_autoencoder_solution.ipynb"> Solution</a>	-->		
+      15 Using unsupervised constructed features for pattern recognition in 2D plots: <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/15_unsupervised_features_no_solution.ipynb"> Notebook </a>|
+         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/15_unsupervised_features_no_solution.ipynb"> Solution</a>
       </li>
       <li>	
-       16 Using unsupervised constructed features for classifcation with few labeled instances:
+       16 Using unsupervised constructed features for classifcation with few labeled instances:<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/16_classification_few_labels_No_Solution.ipynb"> Notebook </a>|
+         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/16_classification_few_labels_Solution.ipynb"> Solution</a>
       </li>
       </ul>
       </td>
