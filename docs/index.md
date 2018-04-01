@@ -399,7 +399,7 @@ Otherwise the rendering is brolen
       <ul>
       <li>		
       15 Using unsupervised constructed features for pattern recognition in 2D plots: <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/15_unsupervised_features_no_solution.ipynb"> Notebook </a>|
-         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/15_unsupervised_features_no_solution.ipynb"> Solution</a>
+         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/15_unsupervised_features_solution.ipynb"> Solution</a>
       </li>
       <li>	
        16 Using unsupervised constructed features for classifcation with few labeled instances:<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/16_classification_few_labels_No_Solution.ipynb"> Notebook </a>|
