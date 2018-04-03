@@ -379,8 +379,8 @@ Otherwise the rendering is brolen
       <td>7</td>
       <td> 
 	      <li>
-       <b>Topic I: RNN continued, GRU, LSTM </b> </li>
-		      <li>
+       <b>Topic I: RNN continued, GRU, LSTM </b> </li> <a href="https://www.dropbox.com/s/rne3pha22vvw8nm/DL-day7-RNN-part2-before.pdf?dl=1">slides</a>
+	<li>
       <b>Topic II: Unsupervised Feature Construction for pattern recognition and classification </b>  <a href="https://www.dropbox.com/s/mnn45s87wac9ju9/DL-day7-unsupervised-before.pdf?dl=1">slides</a> 
 			      </li>
       <ul>
