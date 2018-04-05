@@ -9,7 +9,7 @@ This course in deep learning focuses on practical aspects of deep learning.
 For doing the hands-on part on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
 
 You can also execute the notebooks on the cloud using binder 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/https://tensorchiefs.github.io/dl_course_2018/master?filepath=notebooks), in that case please make sure that you download the notebooks to your local machine if you made changed.
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tensorchiefs/dl_course_2018/master?filepath=notebooks), in that case please make sure that you download the notebooks to your local machine if you made changed.
 
 To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
 
