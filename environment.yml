@@ -7,6 +7,6 @@ dependencies:
 - matplotlib
 - pandas
 - scikit-image
-- scikit-learn=
+- scikit-learn
 - tensorflow
 - keras
