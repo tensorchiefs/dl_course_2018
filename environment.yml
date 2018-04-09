@@ -1,13 +1,12 @@
 channels:
 - conda-forge
 dependencies:
-- ipywidgets=7.1
-- widgetsnbextension=3.1
-- matplotlib=2.1
-- pandas=0.20
 - python=3.6
-- scikit-image=0.13
-- scikit-learn=0.18
-- seaborn=0.7
+- ipywidgets
+- widgetsnbextension
+- matplotlib
+- pandas
+- scikit-image
+- scikit-learn=
 - tensorflow
 - keras
