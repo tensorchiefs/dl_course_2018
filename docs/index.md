@@ -411,7 +411,32 @@ Otherwise the rendering is brolen
       </ul>
       </td>
     </tr>
-	
+   <!--  ------------------------------------- -->
+   <!--  Woche 8 -->
+   <!--  ------------------------------------- -->
+    <tr>
+      <td>8</td>
+      <td> 
+       	<b> Leftovers </b><a href="https://www.dropbox.com/s/3xr2rwzjnta09gx/lecture08.pdf?dl=1">slides</a> 
+      <ul>
+      <li> Crossentropy </li>
+      <li> MC Dropout to quantify uncertainty</li>		
+      </ul>
+      </td>
+      <td> 
+        <ul>
+	<li><a href="http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html">What My Deep Model Doesn't Know</a>
+        </li>
+      </ul>
+      </td>
+      <td>
+      <ul>
+      <li>		
+      TODO
+      </li>
+      </ul>
+      </td>
+    </tr>
 </table>  
  
 
