@@ -13,6 +13,5 @@ If you want to open a notebook straight from github into google colab, you can u
 
 so if you want to open the notebook `00...` from our course do:
 
-```
  https://colab.research.google.com/github/tensorchiefs/dl_course_2018/blob/master/notebooks/00_Checking_Correct_Installation.ipynb
-```
+
