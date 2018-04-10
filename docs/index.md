@@ -432,7 +432,8 @@ Otherwise the rendering is brolen
       <td>
       <ul>
       <li>		
-      TODO
+         17 MC-Dropout on Cifar10 <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/17_cifar10_not_all_labels_MC_Dropout.ipynb"> Notebook </a>|
+         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/17_cifar10_not_all_labels_MC_Dropout_solution.ipynb"> Solution</a>
       </li>
       </ul>
       </td>
