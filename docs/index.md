@@ -14,11 +14,11 @@ You can also execute the notebooks for the hands-on part on the cloud using bind
 To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
 
 ## Info for the projects
-You can join together in small groups and choose a topic for your DL project. You should prepare a poster and a spotlight talk (5 minutes) which you will present on the last course day. To get some hints how to create a good poster you can check out the links that are provieded in <a href="https://www.dropbox.com/s/u1f6mqk4pc3uhxe/poster-guidelines.pdf?dl=1">poster_guidelines.pdf</a> 
+You can join together in small groups and choose a topic for your DL project. You should prepare a poster and a spotlight talk (5 minutes) which you will present on the last course day. To get some hints how to create a good poster you can check out the links that are provided in <a href="https://www.dropbox.com/s/u1f6mqk4pc3uhxe/poster-guidelines.pdf?dl=1">poster_guidelines.pdf</a> 
 
 To run some code on a free google GPU server you can follow the [instructions how to use google colab](co.md).
 
-If you need to prepare a hdf5 file from your images you can have a look on an   <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/data_prep.ipynb"> example Notebook.</a> 
+If you need to prepare a hdf5 file from your images you can have a look on an   <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/data_prep.ipynb"> example Notebook.</a> The final projects are [here](projects.md).
 
 ## Other resources
 We took inspiration (and sometimes slides / figures) from the following resources.
