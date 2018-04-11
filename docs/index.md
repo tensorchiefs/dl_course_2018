@@ -4,23 +4,21 @@ title: Deep Learning Course
 ---
 # Deep Learning (CAS machine intelligence) 
 
-This course in deep learning focuses on practical aspects of deep learning. 
+This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete list of notebooks](list_of_notebooks.md) used in the course).
 
 For doing the hands-on part on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
 
 You can also execute the notebooks for the hands-on part on the cloud using binder 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tensorchiefs/dl_course_2018/master?filepath=notebooks). Note that in this case, changes you made are not presistent and you might want to download the notebooks to your local machine if you made any changes.
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tensorchiefs/dl_course_2018/master?filepath=notebooks) or open them in [colab](list_of_notebooks.md). Note that in this case, changes you made are not presistent and you might want to download the notebooks to your local machine if you made any changes.
 
 To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
 
 ## Info for the projects
 You can join together in small groups and choose a topic for your DL project. You should prepare a poster and a spotlight talk (5 minutes) which you will present on the last course day. To get some hints how to create a good poster you can check out the links that are provided in <a href="https://www.dropbox.com/s/u1f6mqk4pc3uhxe/poster-guidelines.pdf?dl=1">poster_guidelines.pdf</a> 
 
-To run some code on a free google GPU server you can follow the [instructions how to use google colab](co.md).
+If you need free GPU resources, we might want to follow the [instructions how to use google colab](co.md). Help for preparing a hdf5 file from your images you can be found in the <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/data_prep.ipynb"> example Notebook.</a> 
 
-If you need to prepare a hdf5 file from your images you can have a look on an   <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/data_prep.ipynb"> example Notebook.</a> 
-
-The final projects are [here](projects.md).
+The projects have been finished and can be found [here](projects.md).
 
 ## Other resources
 We took inspiration (and sometimes slides / figures) from the following resources.
