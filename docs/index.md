@@ -18,7 +18,9 @@ You can join together in small groups and choose a topic for your DL project. Yo
 
 To run some code on a free google GPU server you can follow the [instructions how to use google colab](co.md).
 
-If you need to prepare a hdf5 file from your images you can have a look on an   <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/data_prep.ipynb"> example Notebook.</a> The final projects are [here](projects.md).
+If you need to prepare a hdf5 file from your images you can have a look on an   <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/data_prep.ipynb"> example Notebook.</a> 
+
+The final projects are [here](projects.md).
 
 ## Other resources
 We took inspiration (and sometimes slides / figures) from the following resources.
