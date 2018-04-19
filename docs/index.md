@@ -105,7 +105,7 @@ Otherwise the rendering is brolen
     <tr>
     <td style="text-align: left;" valign="top">1</td>  
   	<td style="text-align: left;" valign="top"> 
-        <b>Deep learning basics</b> <a href="https://www.dropbox.com/s/z05k981kx0oechm/lecture01.pdf?dl=1">slides</a>
+        <b>Deep learning basics</b> <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day1.pdf"> slides_day1</a>
       		<ul>
       			<li>Overview of deep learning</li>
       			<li>Computational graphs, feeding and fetching</li>
@@ -156,7 +156,7 @@ Otherwise the rendering is brolen
     <tr>
     <td style="text-align: left;" valign="top">2</td>  
     <td style="text-align: left;" valign="top"> 
-       <b>Gradient Descent and loss functions for classification</b> <a href="https://www.dropbox.com/s/lurmsqh1exedtkk/lecture02.pdf?dl=1">slides</a>
+       <b>Gradient Descent and loss functions for classification</b>  <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day2.pdf"> slides_day2</a>
           <ul>
             <li>Gradient Descent</li>
             <li>Logistic regression</li>
@@ -202,7 +202,7 @@ Otherwise the rendering is brolen
   <tr>
   <td>3</td>
   <td> 
-	<b>Going Deeper / Tricks of the trade</b> <a href="https://www.dropbox.com/s/9043ypt8v5awnnb/lecture03.pdf?dl=1">slides </a>
+	<b>Going Deeper / Tricks of the trade</b>  <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day3.pdf"> slides_day3</a>
   		<ul>
 		<li>Fully connected network</li>
 		<li>Backpropagation and Gradient Flow</li>
@@ -246,7 +246,7 @@ Otherwise the rendering is brolen
       <td>4</td>
       <td> 
       		<b>Convolutional Neural Networks I</b>    
-		<a href="https://www.dropbox.com/s/qezz6pe0fg3uyc5/CNN-Tag4-CNN-presented.pdf?dl=1">slides</a> 
+		 <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day4.pdf"> slides_day4</a> 
       		<ul>
 		        <li>Why going beyond fully connected NN?</li> 
       			<li>What is convolution?</li>      			
@@ -291,7 +291,7 @@ Otherwise the rendering is brolen
     <tr>
     <td>5</td>
     <td> 
-    <b>Convolutional Neural Networks II</b> <a href="https://www.dropbox.com/s/dfdj2d3eqbutg54/DL-day5-presented.pdf?dl=1">slides</a> 
+    <b>Convolutional Neural Networks II</b>  <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day5.pdf"> slides_day5</a> 
     <ul>
     <li>Which ingredients are necessary to get a well performing CNN?</li>
     <li>What to do in case of limited data? </li>
@@ -343,8 +343,7 @@ Otherwise the rendering is brolen
     <tr>
     <td>6</td>
      <td> 
-     <b>Modern CNN Architectures</b> <a href="https://www.dropbox.com/s/fy6x7rqnuvpxla6/DL-day6-modern-CNN-architectures.pdf?dl=1">slides</a> 
-     <b>Recurent Neural Networks</b> <a href="https://www.dropbox.com/s/h4t2sivfd8rpn3p/lecture06_RNN.pdf?dl=1">slides</a> 
+     <b>Modern CNN Architectures and Recurent Neural Networks</b>  <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day6.pdf"> slides_day6</a> 
      <ul>
      <li>Recurrent Neural Networks</li>
      <li>Vanishing Gradient Problem</li>
@@ -382,9 +381,7 @@ Otherwise the rendering is brolen
       <td>7</td>
       <td> 
 	      <li>
-       <b>Topic I: RNN continued, GRU, LSTM </b> </li> <a href="https://www.dropbox.com/s/rne3pha22vvw8nm/DL-day7-RNN-part2-before.pdf?dl=1">slides</a>
-	<li>
-      <b>Topic II: Unsupervised Feature Construction for pattern recognition and classification </b>  <a href="https://www.dropbox.com/s/mnn45s87wac9ju9/DL-day7-unsupervised-before.pdf?dl=1">slides</a> 
+       <b>Topic I: RNN continued, GRU, LSTM and topic II: Unsupervised Feature Construction for pattern recognition and classification </b>   <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day7.pdf"> slides_day7</a> 
 			      </li>
       <ul>
       <li>Using pre-trained CNNs as feature extractor</li>
@@ -417,7 +414,7 @@ Otherwise the rendering is brolen
     <tr>
       <td>8</td>
       <td> 
-       	<b> Leftovers </b><a href="https://www.dropbox.com/s/3xr2rwzjnta09gx/lecture08.pdf?dl=1">slides</a> 
+       	<b> Leftovers </b> <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day8.pdf"> slides_day8</a>
       <ul>
       <li> Crossentropy </li>
       <li> MC Dropout to quantify uncertainty</li>		
