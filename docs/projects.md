@@ -12,5 +12,6 @@ Many thanks for the fascinanting projects. Here are the links to some of them:
 
 * ["iMaterialist Challenge (Furniture)"](https://drive.google.com/open?id=1g1R1vXwk-yM50xzqSbWyxiZj42L06sNq) Pascal Freudiger, Roger Hämmertli, Ben Koch und Stefanie Saurwein
 
+* ["Humpback Whale Identification Challenge"](posters/Whale.pdf) Roger Schwyn, Christoph Hubmann and Hubert Keller
 
  
