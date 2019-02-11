@@ -9,7 +9,7 @@ This course in deep learning focuses on practical aspects of deep learning. We t
 For doing the hands-on part on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
 
 You can also execute the notebooks for the hands-on part on the cloud using binder 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tensorchiefs/dl_course_2018/master?filepath=notebooks) or open them in [colab](list_of_notebooks.md). Note that in this case, changes you made are not presistent and you might want to download the notebooks to your local machine if you made any changes.
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tensorchiefs/dl_course_2018/master?filepath=notebooks) or open them in [colab](list_of_notebooks.md). 
 
 To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
 
@@ -40,46 +40,47 @@ The course is split in 8 sessions, each 4 lectures long.
       <th style="text-align: left;" width="%55">Date</th>
       <th style="text-align: left;" width="%55">Time</th>
   </tr>
-  <tr>
+   <tr>
     <td>1</td>
-    <td>Tue Feb 20</td>
+    <td>Tue Feb 19</td>
     <td>13:30-17:00</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Tue Feb 27</td>
+    <td>Tue Feb 26</td>
     <td>13:30-17:00</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Tue March 06</td>
-    <td>09:00-12:30</td>
+    <td>Tue March 05</td>
+    <td>13:30-17:00</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Tue March 13</td>
-    <td>09:00-12:30</td>
+    <td>Tue March 12</td>
+    <td>13:30-17:00</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>Tue March 20</td>
+    <td>Tue March 19</td>
     <td>09:00-12:30</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>Tue March 27</td>
+    <td>Tue March 26</td>
     <td>09:00-12:30</td>
   </tr>
   <tr>
     <td>7</td>
-    <td>Tue April 03</td>
+    <td>Tue April 02</td>
     <td>09:00-12:30</td>
   </tr>
   <tr>
     <td>8</td>
-    <td>Tue April 10</td>
-    <td>13:30-17:00</td>
+    <td>Tue April 09</td>
+    <td>09:00-12:30</td>
   </tr>
+ 
 </table>
 <p>&nbsp;</p> <!-- leerer absatz -->
 
