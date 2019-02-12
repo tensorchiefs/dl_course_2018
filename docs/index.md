@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Deep Learning Course 2019 based on
+title: Deep Learning Course 2019
+site.description: The 2019 Version of the DL Course
 ---
 # Deep Learning (CAS machine intelligence, 2019) 
 
