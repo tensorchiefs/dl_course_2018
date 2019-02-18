@@ -2,7 +2,7 @@
 
 ** Note that it's also possible to use a TensorFlow installation with anaconda, this is especially important for windows users which sometimes struggle quite a lot to install docker **
 
-We provide a docker image [oduerr/tf_docker:cpu_r](https://github.com/oduerr/tf_docker) with [Tensorflow](http://www.tensorflow.org) (v1.5.0) , [TFLearn](http://tflearn.org/), [Keras](https://keras.io/), and many other pre-installed python libraries (numpy, pandas). It also allows to run R-code inside the notebooks. See e.g. [here](https://github.com/oduerr/tf_docker/blob/cpu_r/notebooks/UseR.ipynb) how to use it.
+We provide a docker image [oduerr/tf_docker:cpu_r](https://github.com/oduerr/tf_docker) with [Tensorflow](http://www.tensorflow.org) (v1.13.0) , [TFLearn](http://tflearn.org/), [Keras](https://keras.io/), and many other pre-installed python libraries (numpy, pandas). It also allows to run R-code inside the notebooks. See e.g. [here](https://github.com/oduerr/tf_docker/blob/cpu_r/notebooks/UseR.ipynb) how to use it.
 
 ## Installation of docker
 
@@ -16,7 +16,7 @@ In the docker command line execute:
 ```
 docker run -p 8888:8888 -p 6006:6006 -it oduerr/tf_docker:cpu_r
 ```
-open [http://localhost:8888/?token=tensorchiefs](http://localhost:8888/?token=tensorchiefs) or [http://192.168.99.100:8888/tree?token=tensorchiefs](http://192.168.99.100:8888/tree?token=tensorchiefs)(for windows) in the browser. 
+open [http://localhost:8888/?token=tensorchiefs](http://localhost:8888/?token=tensorchiefs) or [http://192.168.99.100:8888/tree?token=tensorchiefs](http://192.168.99.100:8888/tree?token=tensorchiefs)(forcsome versions of windows) in the browser. 
 
 ## Running with a linked file system.
 If you want to access a directory here (/Users/oli/Documents/workspace/dl_tutorial/) from inside the docker container execute:
