@@ -59,7 +59,7 @@ The course is split in 8 sessions, each 4 lectures long.
   <tr>
     <td>4</td>
     <td>Tue March 12</td>
-    <td>13:30-17:00</td>
+    <td>09:00-12:30</td>
   </tr>
   <tr>
     <td>5</td>
