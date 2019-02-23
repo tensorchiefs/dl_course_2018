@@ -19,7 +19,7 @@ You can join together in small groups and choose a topic for your DL project. Yo
 
 If you need free GPU resources, we might want to follow the [instructions how to use google colab](co.md). Help for preparing a hdf5 file from your images you can be found in the <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/data_prep.ipynb"> example Notebook.</a> 
 
-The projects have been finished and can be found [here](projects.md).
+Examples for projects from the DL course 2018 can be found [here](projects.md).
 
 ## Other resources
 We took inspiration (and sometimes slides / figures) from the following resources.
