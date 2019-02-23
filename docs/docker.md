@@ -1,13 +1,13 @@
 # How to use the docker container for the course
 
-** Note that it's also possible to use a TensorFlow installation with anaconda, this is especially important for windows users which sometimes struggle quite a lot to install docker **
+** If you prefer not to work with docker you can alternatively install TensorFlow and keras with anaconda. You can find an installation guide on our website: [Anaconda installation guide](https://github.com/tensorchiefs/dl_course_2018/blob/master/docs/anaconda.md)**
 
 We provide a docker image [oduerr/tf_docker:cpu_r](https://github.com/oduerr/tf_docker) with [Tensorflow](http://www.tensorflow.org) (v1.13.0) , [TFLearn](http://tflearn.org/), [Keras](https://keras.io/), and many other pre-installed python libraries (numpy, pandas). It also allows to run R-code inside the notebooks. See e.g. [here](https://github.com/oduerr/tf_docker/blob/cpu_r/notebooks/UseR.ipynb) how to use it.
 
 ## Installation of docker
 
 * The official installation guide can be found at: [https://docs.docker.com/engine/installation/](https://docs.docker.com/engine/installation/)
-* In case that the docker installation does not work you can directly install Tensorflow via Anaconda. You can find an installation guide on our website: [Anaconda installation guide](https://github.com/tensorchiefs/dl_course_2018/blob/master/docs/anaconda.md)
+
 
 
 ## Running the container
