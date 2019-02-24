@@ -19,7 +19,9 @@ You should know the basic descriptive statistics (mean, standart deviation, medi
 
 ### Computer stuff
 
-* Python
+* Python and Jupyter Notebooks
 
-You need a basic knowledge of python, see e.g. [datacamp python cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf). We will use jupyter notebooks and make use of numpy, matlibplot and of course the deep learning libraries TensorFlow, and Keras. For the hands-on part you should install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
+You need a basic knowledge of python, see e.g. [datacamp python cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf). We will use jupyter notebooks and make use of numpy, matlibplot and of course the deep learning libraries TensorFlow, and Keras. To get an introduction how to work with jupyter notebooks, see for example this [jupyter intro webpage](https://jupyter.org/try).
+
+For the hands-on part you can work via colab which does not require any installation - for getting started with colab follow the [instructions how to use google colab](co.md). Or you can use the provided a docker container ([details and installation instruction](docker.md)), or install anaconda ([details and installation instruction](anaconda.md)) or .
 
