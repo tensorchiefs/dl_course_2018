@@ -122,6 +122,7 @@ Otherwise the rendering is brolen
         <li> <a href='http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html'>Nature review article</a></li>
         <li> DL-book chapter 6</li>
         <li><a href="https://www.tensorflow.org/get_started/get_started">TensorFlow Intro</a></li>
+	<li><a href="https://www.youtube.com/watch?v=l6K-MFgIEjc">Intro Lecture on TensorFlow form Stanford CS224d</a></li>
        </ul>
    	</td>    
     <!--  Exercises and Homework -->
