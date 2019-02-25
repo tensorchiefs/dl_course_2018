@@ -159,7 +159,7 @@ Otherwise the rendering is brolen
     <tr>
     <td style="text-align: left;" valign="top">2</td>  
     <td style="text-align: left;" valign="top"> 
-       <b>Gradient Descent and loss functions for classification</b>  <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day2.pdf"> slides_day2</a>
+       <b>Gradient Descent and loss functions for classification</b>  <a href="http://www-home.htwg-konstanz.de/~oduerr/docs/lecture02.pdf"> slides_day2</a>
           <ul>
             <li>Gradient Descent</li>
             <li>Logistic regression</li>
