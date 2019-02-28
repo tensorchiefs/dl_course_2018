@@ -205,7 +205,7 @@ Otherwise the rendering is brolen
   <tr>
   <td>3</td>
   <td> 
-	<b>Going Deeper / Tricks of the trade</b>  <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day3.pdf"> slides_day3</a>
+	<b>Going Deeper / Tricks of the trade</b>   <a href="http://www-home.htwg-konstanz.de/~oduerr/docs/lecture03.pdf"> slides_day2</a> slides_day3</a>
   		<ul>
 		<li>Fully connected network</li>
 		<li>Backpropagation and Gradient Flow</li>
