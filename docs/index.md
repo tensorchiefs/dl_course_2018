@@ -186,17 +186,7 @@ Otherwise the rendering is brolen
             <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/03_log_reg_challenger.ipynb'> Notebook</a> |
             <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/03_log_reg_challenger_solution.ipynb'> Solution</a> 
         </li>  
-        <li>
-            Multinomial Logistic Regression (forward pass, numpy, see slides) 
-            <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/04_multinomial_forward_pass_solution.ipynb"> Solution</a>
-        </li>
-    		<li>
-        		04 Multinomial Logistic Regression 
-            <a href="exercises/04_Multinomial_Logistic_Regression"> Exercises</a> |
-            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/04_Multinomial_Logistic_Regression.ipynb'> Notebook</a> |
-            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/04_Multinomial_Logistic_Regression_solution.ipynb'> Solution</a> 
-        </li>         
-      </ul>
+       </ul>
     </td>   
   </tr>
     <!--  ------------------------------------- -->
@@ -226,7 +216,17 @@ Otherwise the rendering is brolen
   </td>
   <td>
   	<ul>
-      <li>
+	        <li>
+            Multinomial Logistic Regression (forward pass, numpy, see slides) 
+            <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/04_multinomial_forward_pass_solution.ipynb"> Solution</a>
+        </li>
+    		<li>
+        		04 Multinomial Logistic Regression 
+            <a href="exercises/04_Multinomial_Logistic_Regression"> Exercises</a> |
+            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/04_Multinomial_Logistic_Regression.ipynb'> Notebook</a> |
+            <a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/04_Multinomial_Logistic_Regression_solution.ipynb'> Solution</a> 
+        </li>  	
+      <li>    
         05 Fully Connected Network MNIST <a href="exercises/05_fcn_MNIST"> Exercises</a> |
 		<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/05_fcn_MNIST.ipynb'> Notebook</a> |
 		<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/05_fcn_MNIST_solution.ipynb'> Solution  </a> 
