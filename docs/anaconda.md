@@ -27,7 +27,7 @@ There two ways, how to run these notebooks, a provided docker container or via a
 * Install the following required packages
 	```
 	conda install tensorflow=1.11.0
-	conda install keras 
+	conda install keras=2.2.4 
 	conda install -c conda-forge ipywidgets
 	```
 
