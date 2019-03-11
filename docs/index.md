@@ -273,6 +273,7 @@ Otherwise the rendering is brolen
 	<!--<a href='https://www.dropbox.com/s/d1se84xdui3uwqz/08a-Schnelluebung-ReLu-solution.pdf?dl=1'> Solution </a> -->
       	<!--</li> -->
 	<li>
+	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/06b_art_lover.ipynb"> Notebook Artlover </a>|
 	07 and 08 CNN <a href="exercises/07_CNN_MNIST"> Exercises</a> |
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_cnn1_mnist.ipynb"> CNN1 Notebook </a>|
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_cnn1_mnist_solution.ipynb"> CNN1 Solution </a>|
