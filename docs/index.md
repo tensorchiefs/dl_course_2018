@@ -249,7 +249,7 @@ Otherwise the rendering is brolen
       <td>4</td>
       <td> 
       		<b>Convolutional Neural Networks I</b>    
-		 <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day4.pdf"> slides_day4</a> 
+		 <a href="http://www-home.htwg-konstanz.de/~oduerr/docs/lecture04.pdf"> slides_day4</a> 
       		<ul>
 		        <li>Why going beyond fully connected NN?</li> 
       			<li>What is convolution?</li>      			
