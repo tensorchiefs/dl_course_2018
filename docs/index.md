@@ -274,18 +274,12 @@ Otherwise the rendering is brolen
       	<!--</li> -->
 	<li>
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/06b_art_lover.ipynb"> Notebook Artlover </a>|
-	07 and 08 CNN <a href="exercises/07_CNN_MNIST"> Exercises</a> |
+	Homework: 07 and 08 CNN <a href="exercises/07_CNN_MNIST"> Exercises</a> |
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_cnn1_mnist.ipynb"> CNN1 Notebook </a>|
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_cnn1_mnist_solution.ipynb"> CNN1 Solution </a>|
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/08_cnn2_mnist.ipynb"> CNN2 Notebook </a>|		
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/08_cnn2_mnist_solution.ipynb"> CNN2 Solution </a>	
 	</li>
-	<li>
-      	09 Homework: 8 Faces
-	<a href="https://www.dropbox.com/s/aufw2awv7s0dqm5/8_faces_dataoverview.html?dl=1"> Data overview</a>|
-	<a href="exercises/09_8_faces">Exercise </a>|
-	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/09_8_faces_fc.ipynb"> FC Solution</a>
-      	</li>
 	</ul>
         </td>
         </tr>
@@ -321,6 +315,12 @@ Otherwise the rendering is brolen
     </td>
     <td>
     <ul>
+	    <li>
+      	09 Homework: 8 Faces
+	<a href="https://www.dropbox.com/s/aufw2awv7s0dqm5/8_faces_dataoverview.html?dl=1"> Data overview</a>|
+	<a href="exercises/09_8_faces">Exercise </a>|
+	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/09_8_faces_fc.ipynb"> FC Solution</a>
+      	</li>
     <li> 
     10 Homework: 8 faces <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/10_8_faces_cnn.ipynb"> possible Solution</a> 
     </li>
