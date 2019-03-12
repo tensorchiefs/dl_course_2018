@@ -249,7 +249,8 @@ Otherwise the rendering is brolen
       <td>4</td>
       <td> 
       		<b>Convolutional Neural Networks I</b>    
-		 <a href="http://www-home.htwg-konstanz.de/~oduerr/docs/lecture04.pdf"> slides_day4</a> 
+		 <a href="http://www-home.htwg-konstanz.de/~oduerr/docs/lecture04.pdf"> slides_day4(pdf) </a> 
+	       	 <a href="http://www-home.htwg-konstanz.de/~oduerr/docs/lecture04.ppt"> slides_day4(ppt)</a> 
       		<ul>
 		        <li>Why going beyond fully connected NN?</li> 
       			<li>What is convolution?</li>      			
