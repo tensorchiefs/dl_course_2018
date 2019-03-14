@@ -317,13 +317,13 @@ Otherwise the rendering is brolen
     <td>
     <ul>
 	    <li>
-      	09 Homework: 8 Faces
+      	8 Faces Overview and FCN baseline
 	<a href="https://www.dropbox.com/s/aufw2awv7s0dqm5/8_faces_dataoverview.html?dl=1"> Data overview</a>|
 	<a href="exercises/09_8_faces">Exercise </a>|
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/09_8_faces_fc.ipynb"> FC Solution</a>
       	</li>
     <li> 
-    10 Homework: 8 faces <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/10_8_faces_cnn.ipynb"> possible Solution</a> 
+    <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/10_8_faces_cnn.ipynb"> possible CNN Solution</a> 
     </li>
     <li> 
     11 transfer learning<a href="exercises/11_8_faces_fine_tuning"> Exercises</a> |
