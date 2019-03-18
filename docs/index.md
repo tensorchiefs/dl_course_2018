@@ -292,10 +292,10 @@ Otherwise the rendering is brolen
     <td> 
     <b>Convolutional Neural Networks II</b>  <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2019-day05.pdf"> slides_day5</a> 
     <ul>
-    <li>Which ingredients are necessary to get a well performing CNN?</li>
     <li>What to do in case of limited data? </li>
     <li>What is a CNN looking at?</li>
     <li>Checking out challange-winning CNN architectures</li>
+    <li>1D CNNs for time-ordered data</li>
     </ul>
     </td>
     <td> 
@@ -310,7 +310,7 @@ Otherwise the rendering is brolen
     <a href="http://cs231n.github.io/understanding-cnn/">cs231 on visualization CNNs</a>
     </li>
     <li>
-    <a href="https://blog.keras.io/category/demo.html">Use keras to visualize which image features activate a feature map</a>
+    <a href="https://deepmind.com/blog/wavenet-generative-model-raw-audio/">Dilated 1D convolution</a>
     </li>
     </ul>
     </td>
