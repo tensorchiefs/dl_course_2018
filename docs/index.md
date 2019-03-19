@@ -290,7 +290,7 @@ Otherwise the rendering is brolen
     <tr>
     <td>5</td>
     <td> 
-    <b>Convolutional Neural Networks II</b>  <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2019-day05.pdf"> slides_day5</a> 
+    <b>Convolutional Neural Networks II</b>  <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL-day05-presented.pdf"> slides_day5</a> 
     <ul>
     <li>What to do in case of limited data? </li>
     <li>What is a CNN looking at?</li>
