@@ -275,7 +275,7 @@ Otherwise the rendering is brolen
       	<!--</li> -->
 	<li>
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/06b_art_lover.ipynb"> Notebook Artlover </a>|
-	Homework: 07 and 08 CNN <a href="exercises/07_CNN_MNIST"> Exercises</a> |
+	Homework: 07 and 08 CNN <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/docs/exercises/07_CNN_MNIST.md"> Exercises</a> |
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_cnn1_mnist.ipynb"> CNN1 Notebook </a>|
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/07_cnn1_mnist_solution.ipynb"> CNN1 Solution </a>|
 	<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/08_cnn2_mnist.ipynb"> CNN2 Notebook </a>|		
