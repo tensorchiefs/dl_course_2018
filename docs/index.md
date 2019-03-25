@@ -365,8 +365,10 @@ Otherwise the rendering is brolen
       <td>
       <ul>
       <li>
-	12 Simple RNN <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_RNN_simple.ipynb"> Notebook </a>|
-         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_RNN_simple_solution.ipynb"> Solution</a>
+	Sentiment analysis 
+	 <a href="exercises/Sentiment_analysis_with_imdb_reviews"> Exercise</a> |
+	 <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/13_sentiment_analysis_with_imdb_reviews.ipynb"> Notebook </a>|
+         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/13_sentiment_analysis_with_imdb_reviews_solution"> Solution</a>
       </li>
 	<li>
 	13 Stateful RNN <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/13_RNN_stateful.ipynb"> Notebook </a>|
