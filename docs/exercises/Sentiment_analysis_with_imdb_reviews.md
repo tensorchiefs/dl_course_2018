@@ -20,7 +20,7 @@ Read some of the reviews in cell 5 and try to label them into posivie or negativ
 
 
 b) Complete the code to build the architecture below (use a dropout rate of 0.5), where do we need the most # of Parameters?   
-What is the input and output of the Embedding layer 
+What is the input and output of the Embedding layer? What is the global average pooling layer donig?
 ```
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
