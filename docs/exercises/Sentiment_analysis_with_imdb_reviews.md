@@ -23,7 +23,7 @@ Run the rest of the code to train a RF on the bag of words featrues and try to u
 b) Complete the code to build the architecture below (use a dropout rate of 0.5).  
 Where do we need the most # of Parameters?   
 What is the input and output of the Embedding layer?  
-What is the global average pooling layer donig?
+What is the global average pooling layer doing?
 ```
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
