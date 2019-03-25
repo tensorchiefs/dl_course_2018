@@ -371,13 +371,11 @@ Otherwise the rendering is brolen
          <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/13_sentiment_analysis_with_imdb_reviews_solution.ipynb"> Solution</a>
       </li>
 	<li>
-	13 Stateful RNN <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/13_RNN_stateful.ipynb"> Notebook </a>|
-         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/13_RNN_stateful_solution.ipynb"> Solution</a>
-      </li>      
-      <li>
-	14 Char RNN (Optional) <a href="exercises/14_rnn"> Exercise</a> |
-	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/15_char_rnn_didactic_prediction_solution.ipynb"> Notebook</a> 
-      </li> 		
+	LSTMs and 1DConv for time series 
+	<a href="exercises/1D_Convolutions_vs_LSTMs_and_RNNs_for_time_series"> Exercise</a> |
+		<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_LSTM_vs_1DConv.ipynb"> Notebook </a>|
+         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_LSTM_vs_1DConv_solution.ipynb"> Solution</a>
+      </li>      		
       </ul>
       </td>
     </tr>	
