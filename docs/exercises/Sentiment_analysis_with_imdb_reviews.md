@@ -19,7 +19,7 @@ a) Open the notebook [Sentiment analysis with imdb reviews](https://github.com/t
 Read some of the reviews in cell 5 and try to label them into posivie or negative. Is this an easy task?
 
 
-b) Complete the code to build the architecture below, where do we need the most # of Parameters?   
+b) Complete the code to build the architecture below (use a dropout rate of 0.5), where do we need the most # of Parameters?   
 What is the input and output of the Embedding layer 
 ```
 _________________________________________________________________
