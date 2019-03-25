@@ -16,11 +16,14 @@ Finally we will use an inception-like architecture with 1D convolutions and glob
 You can test the trained network on new reviews from the internet or by writting your own review for a movie you like or don't like.
 
 a) Open the notebook [Sentiment analysis with imdb reviews](https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/13_sentiment_analysis_with_imdb_reviews.ipynb)  
-Read some of the reviews in cell 5 and try to label them into posivie or negative. Is this an easy task?
+Read some of the reviews in cell 5 and try to label them into posivie or negative. Is this an easy task?  
+Run the rest of the code to train a RF on the bag of words featrues and try to understandig it.
 
 
-b) Complete the code to build the architecture below (use a dropout rate of 0.5), where do we need the most # of Parameters?   
-What is the input and output of the Embedding layer? What is the global average pooling layer donig?
+b) Complete the code to build the architecture below (use a dropout rate of 0.5).  
+Where do we need the most # of Parameters?   
+What is the input and output of the Embedding layer?  
+What is the global average pooling layer donig?
 ```
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
