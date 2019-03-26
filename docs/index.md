@@ -348,12 +348,12 @@ Otherwise the rendering is brolen
     <tr>
     <td>6</td>
      <td> 
-     <b>Modern CNN Architectures and Recurent Neural Networks</b>  <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2019-day6-plan.pdf"> slides_day6</a> 
+     <b>Modern CNN Architectures and Recurent Neural Networks</b>  <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2019-day6-presented.pdf"> slides_day6</a> 
      <ul>
      <li>Working with text: bag of words, embeddingss</li>
+	<li>Sentiment analysis with conv1D</li>
      <li>Recurrent Neural Networks</li>
-     <li>Vanishing Gradient Problem</li>
-     <li>GRUs</li>
+     >
      </ul>
      </td>
      <td> 
