@@ -353,13 +353,11 @@ Otherwise the rendering is brolen
      <li>Working with text: bag of words, embeddingss</li>
 	<li>Sentiment analysis with conv1D</li>
      <li>Recurrent Neural Networks</li>
-     >
-     </ul>
+         </ul>
      </td>
      <td> 
      <ul>
      <li>Karpathy (May 2015) The unreasonable effectiveness of Recurrent Neural Networks <a href='http://karpathy.github.io/2015/05/21/rnn-effectiveness/'>(blog post)</a></li>  
-      <li>Colah (August 2015) Understanding LSTM Networks <a href='http://colah.github.io/posts/2015-08-Understanding-LSTMs/'>(blog post)</a></li>
       <li><a href="http://www.deeplearningbook.org/contents/rnn.html">DL-book chapter 10 </a></li>
       </ul>
       </td>
@@ -372,7 +370,7 @@ Otherwise the rendering is brolen
          <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/13_sentiment_analysis_with_imdb_reviews_solution.ipynb"> Solution</a>
       </li>
 	<li>
-	LSTMs and 1DConv for time series 
+	Predictions with numerich time series using conv1D, RNN, LSTM
 	<a href="exercises/1D_Convolutions_vs_LSTMs_and_RNNs_for_time_series"> Exercise</a> |
 		<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_LSTM_vs_1DConv.ipynb"> Notebook </a>|
          <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_LSTM_vs_1DConv_solution.ipynb"> Solution</a>
@@ -399,6 +397,7 @@ Otherwise the rendering is brolen
         <ul>
 	<li><a href="https://www.dropbox.com/s/dvq5upb5nof090x/Bengio2014-representation-learning.pdf?dl=1">Bengio's Review on representation learning</a>
         </li>
+		 <li>Colah (August 2015) Understanding LSTM Networks <a href='http://colah.github.io/posts/2015-08-Understanding-LSTMs/'>(blog post)</a></li>
       </ul>
       </td>
       <td>
