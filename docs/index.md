@@ -348,7 +348,7 @@ Otherwise the rendering is brolen
     <tr>
     <td>6</td>
      <td> 
-     <b>Modern CNN Architectures and Recurent Neural Networks</b>  <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2019-day6-presented.pdf"> slides_day6</a> 
+     <b>Modern CNN Architectures and Recurent Neural Networks</b>  <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2019-day6-presented2.pdf"> slides_day6</a> 
      <ul>
      <li>Working with text: bag of words, embeddingss</li>
 	<li>Sentiment analysis with conv1D</li>
@@ -385,31 +385,23 @@ Otherwise the rendering is brolen
       <td>7</td>
       <td> 
 	      <li>
-       <b>Topic I: RNN continued, GRU, LSTM and topic II: Unsupervised Feature Construction for pattern recognition and classification </b>   <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day7.pdf"> slides_day7</a> 
+       <b>Topic I: RNN continued, GRU, LSTM and Quantifying prediction uncertainties</b>   <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2019-day7-plan.pdf"> slides_day7</a> 
 			      </li>
       <ul>
-      <li>Using pre-trained CNNs as feature extractor</li>
-      <li>Using unsupervised constructed features for pattern recognition in 2D plots</li>
-      <li>Using unsupervised constructed features for classifcation with few labeled instances</li>			
+      <li>Using GRU</li>
+      <li>Using LSTMs</li>
+      <li>Using Know when you don't know</li>			
       </ul>
       </td>
       <td> 
         <ul>
-	<li><a href="https://www.dropbox.com/s/dvq5upb5nof090x/Bengio2014-representation-learning.pdf?dl=1">Bengio's Review on representation learning</a>
-        </li>
 		 <li>Colah (August 2015) Understanding LSTM Networks <a href='http://colah.github.io/posts/2015-08-Understanding-LSTMs/'>(blog post)</a></li>
+		<li><a href="http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html">Yarin Gal's blog on uncertainty</a>
+        </li>
       </ul>
       </td>
       <td>
       <ul>
-      <li>		
-      15 Using unsupervised constructed features for pattern recognition in 2D plots: <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/15_unsupervised_features_no_solution.ipynb"> Notebook </a>|
-         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/15_unsupervised_features_solution.ipynb"> Solution</a>
-      </li>
-      <li>	
-       16 Using unsupervised constructed features for classifcation with few labeled instances:<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/16_classification_few_labels_no_solution.ipynb"> Notebook </a>|
-         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/16_classification_few_labels_solution.ipynb"> Solution</a>
-      </li>
       </ul>
       </td>
     </tr>
