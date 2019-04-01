@@ -33,7 +33,7 @@ We took inspiration (and sometimes slides / figures) from the following resource
 * Another applied course in DL: [TensorFlow and Deep Learning without a PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 
 
-## Dates (TBC)
+## Dates 
 The course is split in 8 sessions, each 4 lectures long. 
 <table  class="zebra" width="width:100%">
   <tr>
@@ -401,7 +401,11 @@ Otherwise the rendering is brolen
 	<a href="exercises/1D_Convolutions_vs_LSTMs_and_RNNs_for_time_series"> Exercise</a> |
 		<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_LSTM_vs_1DConv.ipynb"> Notebook </a>|
          <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_LSTM_vs_1DConv_solution.ipynb"> Solution</a>
-      </li>    
+      </li>  
+	            <li>		
+         MC-Dropout on Cifar10 <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/17_cifar10_not_all_labels_MC_Dropout.ipynb"> Notebook </a>|
+         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/17_cifar10_not_all_labels_MC_Dropout_solution.ipynb"> Solution</a>
+      </li>
       </ul>
       </td>
     </tr>
@@ -425,10 +429,6 @@ Otherwise the rendering is brolen
       </td>
       <td>
       <ul>
-      <li>		
-         17 MC-Dropout on Cifar10 <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/17_cifar10_not_all_labels_MC_Dropout.ipynb"> Notebook </a>|
-         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/17_cifar10_not_all_labels_MC_Dropout_solution.ipynb"> Solution</a>
-      </li>
       </ul>
       </td>
     </tr>
