@@ -368,13 +368,7 @@ Otherwise the rendering is brolen
 	 <a href="exercises/Sentiment_analysis_with_imdb_reviews"> Exercise</a> |
 	 <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/13_sentiment_analysis_with_imdb_reviews.ipynb"> Notebook </a>|
          <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/13_sentiment_analysis_with_imdb_reviews_solution.ipynb"> Solution</a>
-      </li>
-	<li>
-	Predictions with numerich time series using conv1D, RNN, LSTM
-	<a href="exercises/1D_Convolutions_vs_LSTMs_and_RNNs_for_time_series"> Exercise</a> |
-		<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_LSTM_vs_1DConv.ipynb"> Notebook </a>|
-         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_LSTM_vs_1DConv_solution.ipynb"> Solution</a>
-      </li>      		
+      </li>  		
       </ul>
       </td>
     </tr>	
@@ -402,6 +396,12 @@ Otherwise the rendering is brolen
       </td>
       <td>
       <ul>
+	      <li>
+	Prediction with time series using Conv1D, RNN and LSTM
+	<a href="exercises/1D_Convolutions_vs_LSTMs_and_RNNs_for_time_series"> Exercise</a> |
+		<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_LSTM_vs_1DConv.ipynb"> Notebook </a>|
+         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_LSTM_vs_1DConv_solution.ipynb"> Solution</a>
+      </li>    
       </ul>
       </td>
     </tr>
