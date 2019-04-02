@@ -379,19 +379,16 @@ Otherwise the rendering is brolen
       <td>7</td>
       <td> 
 	      <li>
-       <b>Topic I: RNN continued, GRU, LSTM and Quantifying prediction uncertainties</b>   <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL-day7-plan.pdf"> slides_day7</a> 
+       <b>Topic I: RNN continued, GRU, LSTM and Quantifying prediction uncertainties</b>   <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL-day7-presented.pdf"> slides_day7</a> 
 			      </li>
       <ul>
       <li>Using GRU</li>
-      <li>Using LSTMs</li>
-      <li>Using Know when you don't know</li>			
+      <li>Using LSTMs</li>		
       </ul>
       </td>
       <td> 
         <ul>
 		 <li>Colah (August 2015) Understanding LSTM Networks <a href='http://colah.github.io/posts/2015-08-Understanding-LSTMs/'>(blog post)</a></li>
-		<li><a href="http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html">Yarin Gal's blog on uncertainty</a>
-        </li>
       </ul>
       </td>
       <td>
@@ -402,10 +399,6 @@ Otherwise the rendering is brolen
 		<a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_LSTM_vs_1DConv.ipynb"> Notebook </a>|
          <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/12_LSTM_vs_1DConv_solution.ipynb"> Solution</a>
       </li>  
-	            <li>		
-         MC-Dropout on Cifar10 <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/17_cifar10_not_all_labels_MC_Dropout.ipynb"> Notebook </a>|
-         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/17_cifar10_not_all_labels_MC_Dropout_solution.ipynb"> Solution</a>
-      </li>
       </ul>
       </td>
     </tr>
@@ -429,6 +422,10 @@ Otherwise the rendering is brolen
       </td>
       <td>
       <ul>
+	            <li>		
+         MC-Dropout on Cifar10 <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/17_cifar10_not_all_labels_MC_Dropout.ipynb"> Notebook </a>|
+         <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/17_cifar10_not_all_labels_MC_Dropout_solution.ipynb"> Solution</a>
+      </li>
       </ul>
       </td>
     </tr>
