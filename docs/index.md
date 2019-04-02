@@ -379,7 +379,7 @@ Otherwise the rendering is brolen
       <td>7</td>
       <td> 
 	      <li>
-       <b>Topic I: RNN continued, GRU, LSTM and Quantifying prediction uncertainties</b>   <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2019-day7-plan.pdf"> slides_day7</a> 
+       <b>Topic I: RNN continued, GRU, LSTM and Quantifying prediction uncertainties</b>   <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL-day7-plan.pdf"> slides_day7</a> 
 			      </li>
       <ul>
       <li>Using GRU</li>
