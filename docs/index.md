@@ -408,10 +408,10 @@ Otherwise the rendering is brolen
     <tr>
       <td>8</td>
       <td> 
-       	<b> Leftovers </b> <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL2018-day8.pdf"> slides_day8</a>
+       	<b> Uncertainties in DL </b> <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/slides/DL-day8-plan.pdf"> slides_day8</a>
       <ul>
-      <li> Crossentropy </li>
-      <li> MC Dropout to quantify uncertainty</li>		
+      <li> Recap: Modeling uncertainties in simple linear regression </li>
+      <li> MC Dropout to quantify uncertainties in DL models</li>		
       </ul>
       </td>
       <td> 
