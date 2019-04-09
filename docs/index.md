@@ -427,12 +427,8 @@ Otherwise the rendering is brolen
          <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/17_cifar10_not_all_labels_MC_Dropout_solution.ipynb"> Solution</a>
       </li>
 	            <li>		
-        Linear Regression with TF Probability <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/18_TFP_Regression.ipynb"> Notebook </a>|
+        Linear Regression with TF Probability <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/18_TFP_Regression.ipynb"> Notebook </a>
       </li>
-	      
-	      
-      </ul>
-	      
 	      
       </td>
     </tr>
