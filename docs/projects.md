@@ -32,3 +32,6 @@
 * ["Facial Keypoints Detection"](posters/Facial_Keypoints_Detection.pdf) Marius Wolfensberger, Céline Schlosser
 
 * ["Cycle GAN"](posters/GAN.pdf) Fabio Santschi
+
+* ["Duck classification with CNNs"](posters/Poster_Klassifikation_von_Enten_mittels_CNN.pdf) Fredi Weideli, Patrick Graber
+
