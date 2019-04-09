@@ -15,7 +15,7 @@
 
 * ["Humpback Whale Identification Challenge"](posters/Whale.pdf) Roger Schwyn, Christoph Hubmann and Hubert Keller
 
- ## Links to projects 2019
+## Links to projects 2019
 
 * ["Music classification with Deep Learning"](posters/ClassicalPianoMidiPage-2019.pdf) Andreas Fischer, Bernd Novotny und Tobias Schieferdecker
 
