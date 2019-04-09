@@ -429,7 +429,7 @@ Otherwise the rendering is brolen
 	            <li>		
         Linear Regression with TF Probability <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/18_TFP_Regression.ipynb"> Notebook </a>
       </li>
-	      
+	  </ul>    
       </td>
     </tr>
 </table>  
