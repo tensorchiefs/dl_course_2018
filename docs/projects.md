@@ -30,3 +30,5 @@
 * ["Find the Polar Bear"](posters/Poster_V5.pdf) Dominique Ueltschi, Isabelle Kluser
 
 * ["Facial Keypoints Detection"](posters/Facial_Keypoints_Detection.pdf) Marius Wolfensberger, Céline Schlosser
+
+* ["Cycle GAN"](posters/GAN.pdf) Fabio Santschi
