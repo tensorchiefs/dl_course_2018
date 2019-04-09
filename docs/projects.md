@@ -1,6 +1,7 @@
-## Links to projects
 
-Many thanks for the fascinanting projects. Here are the links to some of them:
+### Many thanks for the fascinanting projects. Here are the links to some of them:
+
+## Links to projects 2018
 
 * ["Dog Breed Identification"](https://drive.google.com/file/d/1fogRymiuGJL8c-mXs4mwEg1DHD_Tkei0/view?usp=sharing) Melanie Hugentobler, Andreea Wyss und Yacine Mekesser
 
@@ -14,4 +15,16 @@ Many thanks for the fascinanting projects. Here are the links to some of them:
 
 * ["Humpback Whale Identification Challenge"](posters/Whale.pdf) Roger Schwyn, Christoph Hubmann and Hubert Keller
 
+ ## Links to projects 2018
  
+* ["Music classification with Deep Learning"](posters/ClassicalPianoMidiPage-2019.pdf) Andreas Fischer, Bernd Novotny und Tobias Schieferdecker
+
+* ["Land cover classification: Squeezing the lemon with AutoML"](posters/dl_poster.pdf) Timo Grossenbacher
+
+* ["Malaria Cell Images"](posters/malaria_poster.pdf) Pascal Wenger, Vinzenz Frauchiger und Tobias Steinbach
+
+* ["Classification with CelebA"](posters/Plakat_DL.pdf) Merola Davide, Pauli Christian
+
+* ["Plant Seedlings Classification"](posters/Plakat_Seedlings.pdf) Ana Cira Garita Solano, Anna Riedo
+
+* ["Find the Polar Bear"](posters/Poster_V5.pdf) Dominique Ueltschi, Isabelle Kluser
