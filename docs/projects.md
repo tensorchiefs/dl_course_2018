@@ -29,4 +29,4 @@
 
 * ["Find the Polar Bear"](posters/Poster_V5.pdf) Dominique Ueltschi, Isabelle Kluser
 
-* ["Facial Keypoints Detection"](posters/Facial Keypoints Detection.pdf) Dominique Ueltschi, Isabelle Kluser
+* ["Facial Keypoints Detection"](posters/Facial Keypoints Detection.pdf) Marius Wolfensberger, Céline Schlosser
