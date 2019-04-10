@@ -35,3 +35,4 @@
 
 * ["Duck classification with CNNs"](posters/Poster_Klassifikation_von_Enten_mittels_CNN.pdf) Fredi Weideli, Patrick Graber
 
+* ["Der letzte Führerscheinneuling ist schon geboren!"](posters/CAS_MAIN_Deep_Learning_Poster_Final.pdf) Andreas Palm, Reto Stucki
