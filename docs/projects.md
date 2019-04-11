@@ -37,5 +37,6 @@
 
 * ["Der letzte Führerscheinneuling ist schon geboren!"](posters/CAS_MAIN_Deep_Learning_Poster_Final.pdf) Andreas Palm, Reto Stucki
 
-* ["The „Find Walter“ Problem"](posters/the_find_wally_problem.pdf) Timur	Erdag, Bruno	Frei, Sandra	Mark und Aaron	Venetz
+* ["The „Find Walter“ Problem"](posters/the_find_wally_problem.pdf) Timur Erdag, Bruno Frei, Sandra Mark und Aaron Venetz
 
+* ["Natural Images"](posters/DL_Poster_natural_imgs.pdf) André Wethmar, Roberto Ringenberg und Jan Schüpbach
